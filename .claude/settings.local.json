@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(cp:*)",
+      "Bash(export:*)",
+      "Bash(echo:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(open voter-database-with-extracted-photos.html)",
+      "Bash(open:*)",
+      "Bash(grep:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git remote add:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
