@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 import { getServerSession } from 'next-auth'
 import { authOptions } from '@/app/api/auth/[...nextauth]/route'
-import * as XLSX from 'xlsx'
+import ExcelJS from 'exceljs'
 
 export async function POST(request: NextRequest) {
   try {
@@ -45,25 +45,43 @@ export async function POST(request: NextRequest) {
     })
     
     if (format === 'xlsx') {
-      const worksheet = XLSX.utils.json_to_sheet(
-        voters.map(v => ({
-          ID: v.id,
-          Name: v.name,
-          'Name (Bengali)': v.nameBn,
-          Hall: v.hall.name,
-          Department: v.department,
-          Session: v.session,
-          Year: v.year,
-          Phone: v.phone,
-          Email: v.email,
-          Verified: v.verified ? 'Yes' : 'No'
-        }))
-      )
+      const workbook = new ExcelJS.Workbook()
+      const worksheet = workbook.addWorksheet('Voters')
       
-      const workbook = XLSX.utils.book_new()
-      XLSX.utils.book_append_sheet(workbook, worksheet, 'Voters')
+      // Add headers
+      worksheet.columns = [
+        { header: 'ID', key: 'id', width: 15 },
+        { header: 'Name', key: 'name', width: 30 },
+        { header: 'Name (Bengali)', key: 'nameBn', width: 30 },
+        { header: 'Hall', key: 'hall', width: 25 },
+        { header: 'Department', key: 'department', width: 20 },
+        { header: 'Session', key: 'session', width: 12 },
+        { header: 'Year', key: 'year', width: 10 },
+        { header: 'Phone', key: 'phone', width: 15 },
+        { header: 'Email', key: 'email', width: 25 },
+        { header: 'Verified', key: 'verified', width: 10 }
+      ]
       
-      const buffer = XLSX.write(workbook, { type: 'buffer', bookType: 'xlsx' })
+      // Add data
+      voters.forEach(v => {
+        worksheet.addRow({
+          id: v.id,
+          name: v.name,
+          nameBn: v.nameBn,
+          hall: v.hall.name,
+          department: v.department,
+          session: v.session,
+          year: v.year,
+          phone: v.phone,
+          email: v.email,
+          verified: v.verified ? 'Yes' : 'No'
+        })
+      })
+      
+      // Style the header row
+      worksheet.getRow(1).font = { bold: true }
+      
+      const buffer = await workbook.xlsx.writeBuffer()
       
       return new NextResponse(buffer, {
         headers: {
