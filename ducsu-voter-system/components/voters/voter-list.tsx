@@ -1,46 +1,83 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { User, Building, BookOpen, Hash } from 'lucide-react'
+import { User, CheckSquare, Square } from 'lucide-react'
 
 interface VoterListProps {
   searchQuery: string
   selectedHalls: string[]
+  language: 'bn' | 'en'
+  batchMode: boolean
+  selectedVoters: string[]
+  onSelectionChange: (voters: string[]) => void
 }
 
-// Mock data - in production, this would come from API
-const mockVoters = [
-  { id: 'JS-001', name: 'Ahmed Rahman', hall: 'Kabi Jasimuddin Hall', department: 'Computer Science' },
-  { id: 'KSKH-002', name: 'Fatima Begum', hall: 'Kabi Sufia Kamal Hall', department: 'Physics' },
-  { id: 'JH-003', name: 'Karim Ali', hall: 'Jagannath Hall', department: 'Mathematics' },
-  // Add more mock data as needed
-]
+interface Voter {
+  id: string
+  name: string
+  hall: string
+  department?: string
+  year?: string
+}
 
-export function VoterList({ searchQuery, selectedHalls }: VoterListProps) {
-  const [voters, setVoters] = useState(mockVoters)
+export function VoterList({ 
+  searchQuery, 
+  selectedHalls, 
+  language, 
+  batchMode,
+  selectedVoters,
+  onSelectionChange 
+}: VoterListProps) {
+  const [voters, setVoters] = useState<Voter[]>([])
   const [loading, setLoading] = useState(false)
+  const [page, setPage] = useState(1)
 
   useEffect(() => {
-    // In production, fetch from API based on searchQuery and selectedHalls
-    const filtered = mockVoters.filter(voter => {
-      const matchesSearch = !searchQuery || 
-        voter.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        voter.id.toLowerCase().includes(searchQuery.toLowerCase())
+    fetchVoters()
+  }, [searchQuery, selectedHalls, page, language])
+
+  const fetchVoters = async () => {
+    setLoading(true)
+    try {
+      const params = new URLSearchParams({
+        q: searchQuery,
+        page: page.toString(),
+        lang: language,
+        limit: '50'
+      })
       
-      const matchesHall = selectedHalls.length === 0 || 
-        selectedHalls.some(hallId => voter.hall.includes(hallId))
+      if (selectedHalls.length > 0) {
+        params.append('hall', selectedHalls[0])
+      }
+
+      const response = await fetch(`/api/voters?${params}`)
+      const data = await response.json()
       
-      return matchesSearch && matchesHall
-    })
-    
-    setVoters(filtered)
-  }, [searchQuery, selectedHalls])
+      if (data.success) {
+        setVoters(data.data.voters)
+      }
+    } catch (error) {
+      console.error('Failed to fetch voters:', error)
+    }
+    setLoading(false)
+  }
+
+  const toggleVoterSelection = (voterId: string) => {
+    if (selectedVoters.includes(voterId)) {
+      onSelectionChange(selectedVoters.filter(id => id !== voterId))
+    } else {
+      onSelectionChange([...selectedVoters, voterId])
+    }
+  }
 
   if (loading) {
     return (
       <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-        <div className="flex justify-center items-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-vezran-primary"></div>
+        <div className="text-center py-8">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"></div>
+          <p className="mt-4 text-gray-600 dark:text-gray-400">
+            {language === 'bn' ? 'লোড হচ্ছে...' : 'Loading...'}
+          </p>
         </div>
       </div>
     )
@@ -48,56 +85,35 @@ export function VoterList({ searchQuery, selectedHalls }: VoterListProps) {
 
   return (
     <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-      <div className="flex justify-between items-center mb-4">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white">
-          Voter Results
-        </h2>
-        <span className="text-sm text-gray-600 dark:text-gray-400">
-          {voters.length} voters found
-        </span>
-      </div>
-
-      {voters.length === 0 ? (
-        <div className="text-center py-12">
-          <User className="w-12 h-12 text-gray-400 mx-auto mb-4" />
-          <p className="text-gray-500 dark:text-gray-400">No voters found</p>
-          <p className="text-sm text-gray-400 dark:text-gray-500 mt-2">
-            Try adjusting your search or selecting different halls
-          </p>
-        </div>
-      ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {voters.map(voter => (
-            <div
-              key={voter.id}
-              className="p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:shadow-md transition-shadow cursor-pointer"
-            >
-              <div className="flex items-start gap-3">
-                <div className="p-2 bg-vezran-primary/10 rounded-lg">
-                  <User className="w-6 h-6 text-vezran-primary" />
-                </div>
-                <div className="flex-1">
-                  <h3 className="font-semibold text-gray-900 dark:text-white">
-                    {voter.name}
-                  </h3>
-                  <div className="mt-2 space-y-1">
-                    <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
-                      <Hash className="w-3 h-3" />
-                      <span>{voter.id}</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
-                      <Building className="w-3 h-3" />
-                      <span>{voter.hall}</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
-                      <BookOpen className="w-3 h-3" />
-                      <span>{voter.department}</span>
-                    </div>
-                  </div>
-                </div>
+      <div className="space-y-4">
+        {voters.map(voter => (
+          <div key={voter.id} className="flex items-center justify-between p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+            <div className="flex items-center gap-4">
+              {batchMode && (
+                <button onClick={() => toggleVoterSelection(voter.id)}>
+                  {selectedVoters.includes(voter.id) ? (
+                    <CheckSquare className="w-5 h-5 text-blue-600" />
+                  ) : (
+                    <Square className="w-5 h-5 text-gray-400" />
+                  )}
+                </button>
+              )}
+              <User className="w-10 h-10 text-gray-400" />
+              <div>
+                <h3 className="font-semibold text-gray-900 dark:text-white">{voter.name}</h3>
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  ID: {voter.id} | {voter.hall}
+                  {voter.department && ` | ${voter.department}`}
+                </p>
               </div>
             </div>
-          ))}
+          </div>
+        ))}
+      </div>
+      
+      {voters.length === 0 && (
+        <div className="text-center py-8 text-gray-500 dark:text-gray-400">
+          {language === 'bn' ? 'কোন ভোটার পাওয়া যায়নি' : 'No voters found'}
         </div>
       )}
     </div>
