@@ -14,9 +14,6 @@ const nextConfig = {
   images: {
     domains: ['localhost', 'ducsu.edu.bd'],
   },
-  experimental: {
-    serverActions: true,
-  },
   webpack: (config, { isServer }) => {
     if (!isServer) {
       config.resolve.fallback = {
