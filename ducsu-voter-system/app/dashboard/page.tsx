@@ -325,7 +325,7 @@ export default function DashboardPage() {
             </div>
           </div>
           <div className="mt-6 text-xs text-gray-500">
-            © 2024 DUCSU Voter Management System | Enhanced by VEZRAN Super Intelligence
+            © 2025 DUCSU Voter Management System | Enhanced by VEZRAN Super Intelligence
           </div>
         </div>
       </footer>

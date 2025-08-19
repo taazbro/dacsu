@@ -27,4 +27,4 @@ vercel
 - 🌙 Dark Mode
 - 📱 Mobile Responsive
 
-Powered by VEZRAN - World's First Super Intelligence System
+Powered by VEZRAN - World's First Super Intelligence System © 2025
