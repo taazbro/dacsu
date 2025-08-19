@@ -1,0 +1,85 @@
+// This is your Prisma schema file
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id @default(cuid())
+  username      String    @unique
+  password      String
+  role          Role      @default(USER)
+  name          String
+  email         String?   @unique
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  sessions      Session[]
+  auditLogs     AuditLog[]
+}
+
+model Session {
+  id            String    @id @default(cuid())
+  sessionToken  String    @unique
+  userId        String
+  expires       DateTime
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt     DateTime  @default(now())
+}
+
+model Hall {
+  id            String    @id @default(cuid())
+  name          String
+  nameBn        String
+  prefix        String    @unique
+  voterCount    Int       @default(0)
+  voters        Voter[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model Voter {
+  id            String    @id @unique
+  name          String
+  nameBn        String?
+  hallId        String
+  hall          Hall      @relation(fields: [hallId], references: [id])
+  department    String?
+  departmentBn  String?
+  session       String?
+  year          String?
+  phone         String?
+  email         String?   @unique
+  photo         String?
+  verified      Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  
+  @@index([name])
+  @@index([hallId])
+  @@index([department])
+}
+
+model AuditLog {
+  id            String    @id @default(cuid())
+  userId        String?
+  user          User?     @relation(fields: [userId], references: [id])
+  action        String
+  details       Json
+  ipAddress     String?
+  userAgent     String?
+  timestamp     DateTime  @default(now())
+  
+  @@index([userId])
+  @@index([action])
+  @@index([timestamp])
+}
+
+enum Role {
+  USER
+  ADMIN
+  SUPER_ADMIN
+}
