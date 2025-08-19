@@ -1,127 +1,58 @@
-# DACSU Voter Database Management System
-## Amar Ekushey Hall - University of Dhaka
+# DUCSU Voter Management System
 
-A comprehensive voter database management system for DUCSU (Dhaka University Central Students' Union) elections, specifically for Amar Ekushey Hall.
+A complete enterprise-grade voter management system for Dhaka University Central Students' Union (DUCSU) with 39,789 voters across 18 halls.
 
 ## Features
 
-### 🔐 Authentication
-- Secure login system with password protection
-- Multiple authentication options
+- **39,789 Voters** - Complete voter database
+- **18 Halls** - All residential halls integrated
+- **Bilingual Support** - Bengali (বাংলা) and English
+- **Authentication** - Role-based access control
+- **Dark Mode** - Theme switching support
+- **Command Palette** - Quick actions (⌘K/Ctrl+K)
+- **Batch Operations** - Multi-select and export
+- **Real-time Search** - Fast filtering and search
+- **VEZRAN Powered** - Enhanced by VEZRAN Super Intelligence
 
-### 👥 Voter Management
-- Complete database of 1291 voters
-- Individual voter photos for all entries
-- Detailed voter information including:
-  - Serial number
-  - Voter ID
-  - Name
-  - Registration session
-  - Department affiliation
+## Tech Stack
 
-### 🔍 Search & Filter
-- Search by voter name
-- Search by voter number
-- Filter by academic session
-- Filter by department
-- Quick reset functionality
-
-### 📊 Reports & Analytics
-- **6 Report Types:**
-  - Summary Report
-  - Detailed List
-  - Statistical Analysis
-  - Department Report
-  - Session Report
-  - Voter Cards List
-- **Multiple Export Formats:**
-  - HTML (Web View)
-  - PDF (Print Ready)
-  - Excel Spreadsheet
-- Live preview before generation
-- Customizable report options
-
-### 🆔 ID Card Generation
-- Individual voter ID cards
-- Unique QR codes for each voter
-- Print and download functionality
-- Professional card layout
-
-### 🖼️ Photo Gallery
-- Visual gallery of all voters
-- Filtered view support
-- Click to enlarge photos
-
-### 📈 Statistics Dashboard
-- Session distribution
-- Department breakdown
-- Photo availability metrics
-- Real-time statistics
-
-### 🌐 Bilingual Support
-- Full Bengali interface (default)
-- Complete English translation
-- Easy language switching
-
-## Technology Stack
-- Pure HTML5
-- CSS3 with responsive design
-- Vanilla JavaScript
-- No external dependencies (except XLSX for Excel export)
+- **Next.js 14** - React framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Zustand** - State management
+- **Framer Motion** - Animations
 
 ## Installation
 
-1. Clone the repository:
 ```bash
-git clone https://github.com/taazbro/dacsu.git
+cd ducsu-voter-system
+npm install
+npm run dev
 ```
 
-2. Ensure the `images` folder contains all voter photos (portrait_0001.jpg to portrait_1291.jpg)
+Open [http://localhost:3000](http://localhost:3000)
 
-3. Open `voter-database-with-extracted-photos.html` in any modern web browser
+## Authentication
 
-## Usage
+- **Admin**: Username: `admin`, Password: `Subscribe@vezran`
+- **User**: Username: `user`, Password: `follow@vezranai`
 
-1. **Login**: Use one of the provided passwords to access the system
-2. **Browse**: View all voters with pagination (20 per page)
-3. **Search**: Use filters to find specific voters
-4. **Generate Reports**: Create custom reports with various options
-5. **Export**: Download data in Excel format
-6. **View Stats**: Check statistical analysis
-7. **Create ID Cards**: Generate and print voter ID cards
+## Deployment
 
-## Security
-- Password-protected access
-- Client-side data processing
-- No external API calls
-- Secure session management
+### Vercel
 
-## Browser Compatibility
-- ✅ Chrome (Recommended)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
-
-## Project Structure
+```bash
+cd ducsu-voter-system
+vercel
 ```
-dacsu/
-├── voter-database-with-extracted-photos.html  # Main application
-├── images/                                    # Voter photos
-│   ├── portrait_0001.jpg
-│   ├── portrait_0002.jpg
-│   └── ... (1291 photos total)
-├── README.md                                  # Documentation
-└── FIXES_APPLIED.md                          # Recent fixes log
+
+### Docker
+
+```bash
+docker build -t ducsu-system .
+docker run -p 3000:3000 ducsu-system
 ```
 
 ## License
-This project is for educational and administrative use by DUCSU and the University of Dhaka.
 
-## Support
-For issues or questions, please open an issue in the GitHub repository.
-
-## Credits
-Developed for DUCSU-1, Amar Ekushey Hall, University of Dhaka
-
----
-**Last Updated**: 2025
+© 2024 DUCSU Voter Management System | Powered by VEZRAN

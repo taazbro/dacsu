@@ -1,3 +1,22 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -7,29 +26,103 @@
 ehthumbs.db
 Thumbs.db
 
-# Temporary files
-*.tmp
-*.bak
-*.swp
-*~
-
-# Log files
-*.log
-
-# Node modules (if added later)
-node_modules/
-
 # IDE files
 .vscode/
 .idea/
 *.sublime-*
+*.swp
+*.swo
+*~
 
-# Backup files
-*.backup
-*_backup.*
-*_old.*
+# Local settings
+.claude/
+*.local.json
 
-# Test files
+# Temporary files
+*.tmp
+*.temp
+*.log
+!requirements.txt
+
+# Test and debug files
+*_test.*
+*_debug.*
+test_*
+debug_*
 test/
 tests/
 *.test.*
+
+# Backup files
+*_backup.*
+*_fixed.*
+*_original.*
+*.backup
+*_old.*
+*.bak
+
+# Report files
+*.report.txt
+*_report.md
+bengali_fix_report.md
+
+# Generated data files
+found_voter_ids.txt
+full_voter_list.txt
+halls_summary.txt
+missing_*.json
+advanced_parse_results.json
+amar_ekushey_photo_mapping.json
+halls_data.json
+zia_voters_list.json
+voter_list_without_amar_ekushey.txt
+
+# Parser and processing scripts (not needed for deployment)
+*_parser.py
+*_parser.js
+extract_*.js
+extract_*.py
+fix_*.js
+fix_*.py
+parse_*.js
+generate_*.js
+translate_*.js
+translate_*.py
+verify_*.py
+final_*.py
+bengali_*.py
+comprehensive_*.js
+proper_*.js
+safe_*.js
+add_session_field.js
+create_sample_embed.js
+debug_parser.js
+demo_embedded_portraits.js
+embedded_portraits_code.js
+improved_parser.js
+optimized_parser.js
+pattern_debug.js
+sample_embedded.js
+ultra_optimized_parser.js
+show_zia_examples.py
+test_specific_fix.py
+find_*.js
+find_*.py
+
+# Database backups (keep only necessary ones)
+voter_database_*.js
+!voter_database.js
+voter_database_*.json
+!voter_database.json
+
+# Bengali text files
+অমর একুশে হল.txt
+রোকেয়া হল-compressed.txt
+
+# Keep essential files
+!README.md
+!FIXES_APPLIED.md
+!index.html
+!complete-voter-system.html
+!package.json
+!vercel.json

@@ -1,0 +1,6741 @@
+{
+  "hallName": "সলিমুল্লাহ মুসলিম হল",
+  "englishName": "Salimullah_Muslim_Hall",
+  "prefix": "সল",
+  "color": "#2c3e50",
+  "voters": [
+    {
+      "id": "সল-০০০০১",
+      "prefix": "সল",
+      "serial": "০০০০১",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272673,
+      "name": "সরদার ফারদিন জামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০২",
+      "prefix": "সল",
+      "serial": "০০০০২",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272675,
+      "name": "মাঃ আবরার ফাইয়াজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৩",
+      "prefix": "সল",
+      "serial": "০০০০৩",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272677,
+      "name": "মাঃ জলুিয়াস সিজার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৪",
+      "prefix": "সল",
+      "serial": "০০০০৪",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272679,
+      "name": "মাঃ শাহজালাল সিিকী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৫",
+      "prefix": "সল",
+      "serial": "০০০০৫",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272713,
+      "name": "ইসতিয়াক আরাফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৬",
+      "prefix": "সল",
+      "serial": "০০০০৬",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272715,
+      "name": "মাঃ মায়নূ মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৭",
+      "prefix": "সল",
+      "serial": "০০০০৭",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272717,
+      "name": "রাইয়ান রউফ খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৮",
+      "prefix": "সল",
+      "serial": "০০০০৮",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272719,
+      "name": "খকার মহুদ ফারহান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০০৯",
+      "prefix": "সল",
+      "serial": "০০০০৯",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272751,
+      "name": "পিয়াস আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১০",
+      "prefix": "সল",
+      "serial": "০০০১০",
+      "department": "অপরাধ বিান বিভাগ",
+      "lineNumber": 272753,
+      "name": "ইাহিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১১",
+      "prefix": "সল",
+      "serial": "০০০১১",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272803,
+      "name": "নাফিজ আল সাঈখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১২",
+      "prefix": "সল",
+      "serial": "০০০১২",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272805,
+      "name": "ল আরফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৩",
+      "prefix": "সল",
+      "serial": "০০০১৩",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272807,
+      "name": "মাঃ হাসান আহমেদ রাজু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৪",
+      "prefix": "সল",
+      "serial": "০০০১৪",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272809,
+      "name": "সাহার রহমান হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৫",
+      "prefix": "সল",
+      "serial": "০০০১৫",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272845,
+      "name": "নূরে আলম রিফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৬",
+      "prefix": "সল",
+      "serial": "০০০১৬",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272847,
+      "name": "ইশমাম রহমান ব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৭",
+      "prefix": "সল",
+      "serial": "০০০১৭",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272849,
+      "name": "তাওসিফ রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৮",
+      "prefix": "সল",
+      "serial": "০০০১৮",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272851,
+      "name": "তাহমিদ জারিফ সাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০১৯",
+      "prefix": "সল",
+      "serial": "০০০১৯",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272887,
+      "name": "মাহাদ হাবিবরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২০",
+      "prefix": "সল",
+      "serial": "০০০২০",
+      "department": "অগানাইজেশন াটেজি এড",
+      "lineNumber": 272889,
+      "name": "নাহিদ ভঞূা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২১",
+      "prefix": "সল",
+      "serial": "০০০২১",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272943,
+      "name": "কাজী মাঃ আমান উাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২২",
+      "prefix": "সল",
+      "serial": "০০০২২",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272945,
+      "name": "জাওয়াল করিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৩",
+      "prefix": "সল",
+      "serial": "০০০২৩",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272947,
+      "name": "তাসনমীসুসাআদ আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৪",
+      "prefix": "সল",
+      "serial": "০০০২৪",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272949,
+      "name": "নাফিউল ফরদৌস সলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৫",
+      "prefix": "সল",
+      "serial": "০০০২৫",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272977,
+      "name": "মাশর আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৬",
+      "prefix": "সল",
+      "serial": "০০০২৬",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272979,
+      "name": "মাঃ তাকরিম হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৭",
+      "prefix": "সল",
+      "serial": "০০০২৭",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272981,
+      "name": "মাঃ মাফ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৮",
+      "prefix": "সল",
+      "serial": "০০০২৮",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 272983,
+      "name": "মাঃ সাহাামান অু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০২৯",
+      "prefix": "সল",
+      "serial": "০০০২৯",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273011,
+      "name": "বােয়ত আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩০",
+      "prefix": "সল",
+      "serial": "০০০৩০",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273013,
+      "name": "আুাহ আল ইমরান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩১",
+      "prefix": "সল",
+      "serial": "০০০৩১",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273015,
+      "name": "মা: আরিফ ফয়সাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩২",
+      "prefix": "সল",
+      "serial": "০০০৩২",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273017,
+      "name": "খালেদ এরফান চৗধরূী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৩",
+      "prefix": "সল",
+      "serial": "০০০৩৩",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273045,
+      "name": "আদনান শাহরিয়ার অমি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৪",
+      "prefix": "সল",
+      "serial": "০০০৩৪",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273047,
+      "name": "আবরার মাহরী বিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৫",
+      "prefix": "সল",
+      "serial": "০০০৩৫",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273049,
+      "name": "আমির মহুাদ ওয়াশিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৬",
+      "prefix": "সল",
+      "serial": "০০০৩৬",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273051,
+      "name": "আহনাফ মাহমদু তিষাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৭",
+      "prefix": "সল",
+      "serial": "০০০৩৭",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273083,
+      "name": "খকার ইউশা ছাবেরনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৮",
+      "prefix": "সল",
+      "serial": "০০০৩৮",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273085,
+      "name": "তওসিফ ফুয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৩৯",
+      "prefix": "সল",
+      "serial": "০০০৩৯",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273087,
+      "name": "মাহাদ তাসফিল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪০",
+      "prefix": "সল",
+      "serial": "০০০৪০",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273089,
+      "name": "মাঃ মুতাসিম-আল-তাহা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪১",
+      "prefix": "সল",
+      "serial": "০০০৪১",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273117,
+      "name": "সাদ উিন ভূঁইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪২",
+      "prefix": "সল",
+      "serial": "০০০৪২",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273119,
+      "name": "সাদমান শরফী ভূইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৩",
+      "prefix": "সল",
+      "serial": "০০০৪৩",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273121,
+      "name": "সাদেল আরেফিন ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৪",
+      "prefix": "সল",
+      "serial": "০০০৪৪",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273123,
+      "name": "সয়দ জারিফ আরিয়ান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৫",
+      "prefix": "সল",
+      "serial": "০০০৪৫",
+      "department": "অথনতীি বিভাগ",
+      "lineNumber": 273153,
+      "name": "ডি এম. আশরাফলু আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৬",
+      "prefix": "সল",
+      "serial": "০০০৪৬",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273195,
+      "name": "মাঃ নাজমুামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৭",
+      "prefix": "সল",
+      "serial": "০০০৪৭",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273197,
+      "name": "আবু বকর সিিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৮",
+      "prefix": "সল",
+      "serial": "০০০৪৮",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273199,
+      "name": "জলুিয়ান রাফাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৪৯",
+      "prefix": "সল",
+      "serial": "০০০৪৯",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273201,
+      "name": "মাঃ মাফা ামানিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫০",
+      "prefix": "সল",
+      "serial": "০০০৫০",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273233,
+      "name": "রাকিব হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫১",
+      "prefix": "সল",
+      "serial": "০০০৫১",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273235,
+      "name": "হাসান বিন রফকী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫২",
+      "prefix": "সল",
+      "serial": "০০০৫২",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273237,
+      "name": "এস,এম,আুাহ আল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৩",
+      "prefix": "সল",
+      "serial": "০০০৫৩",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273239,
+      "name": "মাঃ আবু তালেব মিয়া মুা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৪",
+      "prefix": "সল",
+      "serial": "০০০৫৪",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273269,
+      "name": "মাঃ বাবু মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৫",
+      "prefix": "সল",
+      "serial": "০০০৫৫",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273271,
+      "name": "আফিফ হাসান কাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৬",
+      "prefix": "সল",
+      "serial": "০০০৫৬",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273273,
+      "name": "ওয়াহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৭",
+      "prefix": "সল",
+      "serial": "০০০৫৭",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273275,
+      "name": "ফাইয়াজ কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৮",
+      "prefix": "সল",
+      "serial": "০০০৫৮",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273303,
+      "name": "মা. ওয়াফি নরূ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৫৯",
+      "prefix": "সল",
+      "serial": "০০০৫৯",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273305,
+      "name": "মা. হান সরকার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬০",
+      "prefix": "সল",
+      "serial": "০০০৬০",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273307,
+      "name": "মা:আরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬১",
+      "prefix": "সল",
+      "serial": "০০০৬১",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273309,
+      "name": "মাঃ অনিক হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬২",
+      "prefix": "সল",
+      "serial": "০০০৬২",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273337,
+      "name": "মাঃ মহিউনী আজমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৩",
+      "prefix": "সল",
+      "serial": "০০০৬৩",
+      "department": "আইন বিভাগ",
+      "lineNumber": 273339,
+      "name": "মা: আসু ছালাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৪",
+      "prefix": "সল",
+      "serial": "০০০৬৪",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273387,
+      "name": "এস.এম. অনিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৫",
+      "prefix": "সল",
+      "serial": "০০০৬৫",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273389,
+      "name": "মাঃ শরিফলু হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৬",
+      "prefix": "সল",
+      "serial": "০০০৬৬",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273391,
+      "name": "সাইর রহমান মানিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৭",
+      "prefix": "সল",
+      "serial": "০০০৬৭",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273393,
+      "name": "মাঃ আলু কাদের",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৮",
+      "prefix": "সল",
+      "serial": "০০০৬৮",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273421,
+      "name": "খকার ইশরাক আরেফনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৬৯",
+      "prefix": "সল",
+      "serial": "০০০৬৯",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273423,
+      "name": "মাাক আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭০",
+      "prefix": "সল",
+      "serial": "০০০৭০",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273425,
+      "name": "মাহাদ ইমাম হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭১",
+      "prefix": "সল",
+      "serial": "০০০৭১",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273427,
+      "name": "মাঃ মাহফজু হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭২",
+      "prefix": "সল",
+      "serial": "০০০৭২",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273457,
+      "name": "রাশিক আল ইয়ামনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৩",
+      "prefix": "সল",
+      "serial": "০০০৭৩",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273459,
+      "name": "রামান হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৪",
+      "prefix": "সল",
+      "serial": "০০০৭৪",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273461,
+      "name": "খান মশুফির রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৫",
+      "prefix": "সল",
+      "serial": "০০০৭৫",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273463,
+      "name": "মা: রদওয়ান হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৬",
+      "prefix": "সল",
+      "serial": "০০০৭৬",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273491,
+      "name": "মাঃ দিপু আহেদ জবীন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৭",
+      "prefix": "সল",
+      "serial": "০০০৭৭",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273493,
+      "name": "মাঃ সাদিক বিন সাহরাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৮",
+      "prefix": "সল",
+      "serial": "০০০৭৮",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273495,
+      "name": "আনোয়ার সাদাত ললিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৭৯",
+      "prefix": "সল",
+      "serial": "০০০৭৯",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273497,
+      "name": "তানজিম ফাইজ চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮০",
+      "prefix": "সল",
+      "serial": "০০০৮০",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273525,
+      "name": "মাঃ মাক তাজওয়ার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮১",
+      "prefix": "সল",
+      "serial": "০০০৮১",
+      "department": "আধনুিক ভাষা ইনিটিউট",
+      "lineNumber": 273527,
+      "name": "মাইল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮২",
+      "prefix": "সল",
+      "serial": "০০০৮২",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273575,
+      "name": "মা. খায়ল আহসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৩",
+      "prefix": "সল",
+      "serial": "০০০৮৩",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273577,
+      "name": "মা. রজাউল করিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৪",
+      "prefix": "সল",
+      "serial": "০০০৮৪",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273579,
+      "name": "মা: জাহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৫",
+      "prefix": "সল",
+      "serial": "০০০৮৫",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273581,
+      "name": "মাঃ আনোয়ার হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৬",
+      "prefix": "সল",
+      "serial": "০০০৮৬",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273611,
+      "name": "মাঃ আবু বকর সাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৭",
+      "prefix": "সল",
+      "serial": "০০০৮৭",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273613,
+      "name": "মাঃ মহেদী হাসান বিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৮",
+      "prefix": "সল",
+      "serial": "০০০৮৮",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273615,
+      "name": "মাহাদ আলী শা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৮৯",
+      "prefix": "সল",
+      "serial": "০০০৮৯",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273617,
+      "name": "হাসাামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯০",
+      "prefix": "সল",
+      "serial": "০০০৯০",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273647,
+      "name": "আমরী মাহাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯১",
+      "prefix": "সল",
+      "serial": "০০০৯১",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273649,
+      "name": "মা: আরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯২",
+      "prefix": "সল",
+      "serial": "০০০৯২",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273651,
+      "name": "মাঃ তাছিমলু তাহা অন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৩",
+      "prefix": "সল",
+      "serial": "০০০৯৩",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273653,
+      "name": "মাঃ রাহেল আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৪",
+      "prefix": "সল",
+      "serial": "০০০৯৪",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273683,
+      "name": "মাঃ সামিন মশুফিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৫",
+      "prefix": "সল",
+      "serial": "০০০৯৫",
+      "department": "আজাতিক সক বিভাগ",
+      "lineNumber": 273685,
+      "name": "মাঃ আরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৬",
+      "prefix": "সল",
+      "serial": "০০০৯৬",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273737,
+      "name": "আবু তাহের",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৭",
+      "prefix": "সল",
+      "serial": "০০০৯৭",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273739,
+      "name": "ওবায়াহ আহমাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৮",
+      "prefix": "সল",
+      "serial": "০০০৯৮",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273741,
+      "name": "জাহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০০৯৯",
+      "prefix": "সল",
+      "serial": "০০০৯৯",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273743,
+      "name": "নাছিম উনী সিরাজী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০০",
+      "prefix": "সল",
+      "serial": "০০১০০",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273773,
+      "name": "মা: ফজললু আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০১",
+      "prefix": "সল",
+      "serial": "০০১০১",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273775,
+      "name": "মাঃ আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০২",
+      "prefix": "সল",
+      "serial": "০০১০২",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273777,
+      "name": "মাঃ তাহমিদ হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৩",
+      "prefix": "সল",
+      "serial": "০০১০৩",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273779,
+      "name": "মাশেদ নাহনী সিিকী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৪",
+      "prefix": "সল",
+      "serial": "০০১০৪",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273807,
+      "name": "মাঃ নাঈম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৫",
+      "prefix": "সল",
+      "serial": "০০১০৫",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273809,
+      "name": "মা:সায়াইব আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৬",
+      "prefix": "সল",
+      "serial": "০০১০৬",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273811,
+      "name": "মাঃ নাফিউর রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৬",
+      "prefix": "সল",
+      "serial": "০০৬৬৬",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273813,
+      "name": "মাঃ ফাহিম হায়দার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৭",
+      "prefix": "সল",
+      "serial": "০০১০৭",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273841,
+      "name": "মাঃ মশুফির রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৮",
+      "prefix": "সল",
+      "serial": "০০১০৮",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273843,
+      "name": "মাঃ সাইম মাহমদু লিমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১০৯",
+      "prefix": "সল",
+      "serial": "০০১০৯",
+      "department": "আরবি বিভাগ",
+      "lineNumber": 273845,
+      "name": "আবু রায়হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১০",
+      "prefix": "সল",
+      "serial": "০০১১০",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273899,
+      "name": "আুা আল শাহিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১১",
+      "prefix": "সল",
+      "serial": "০০১১১",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273901,
+      "name": "আলী রজা ভূঁইয়া তাজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১২",
+      "prefix": "সল",
+      "serial": "০০১১২",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273903,
+      "name": "মা: রাজিব মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৩",
+      "prefix": "সল",
+      "serial": "০০১১৩",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273905,
+      "name": "মাঃ বােয়জিদ মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৪",
+      "prefix": "সল",
+      "serial": "০০১১৪",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273933,
+      "name": "মাঃ মাশারফ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৫",
+      "prefix": "সল",
+      "serial": "০০১১৫",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273935,
+      "name": "মাঃ শামমী হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৬",
+      "prefix": "সল",
+      "serial": "০০১১৬",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273937,
+      "name": "মাঃ সরোয়ার কামাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৭",
+      "prefix": "সল",
+      "serial": "০০১১৭",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273939,
+      "name": "মাঃ সাির আহমদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৮",
+      "prefix": "সল",
+      "serial": "০০১১৮",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273969,
+      "name": "সাাদ হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১১৯",
+      "prefix": "সল",
+      "serial": "০০১১৯",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273971,
+      "name": "মা: সাবলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২০",
+      "prefix": "সল",
+      "serial": "০০১২০",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273973,
+      "name": "আশরাফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২১",
+      "prefix": "সল",
+      "serial": "০০১২১",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 273975,
+      "name": "তৗফিল মনুমী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২২",
+      "prefix": "সল",
+      "serial": "০০১২২",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 274003,
+      "name": "মা: মাদ রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৩",
+      "prefix": "সল",
+      "serial": "০০১২৩",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 274005,
+      "name": "শাহ আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৪",
+      "prefix": "সল",
+      "serial": "০০১২৪",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 274007,
+      "name": "লতাল আরেফিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৫",
+      "prefix": "সল",
+      "serial": "০০১২৫",
+      "department": "ইংরেজী বিভাগ",
+      "lineNumber": 274009,
+      "name": "এস.এম.আলিফ আরমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৬",
+      "prefix": "সল",
+      "serial": "০০১২৬",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274071,
+      "name": "জাহিদ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৭",
+      "prefix": "সল",
+      "serial": "০০১২৭",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274073,
+      "name": "মাাফিজরু রহমান বলাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৮",
+      "prefix": "সল",
+      "serial": "০০১২৮",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274075,
+      "name": "মাহাদ আমানউাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১২৯",
+      "prefix": "সল",
+      "serial": "০০১২৯",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274077,
+      "name": "শখ আরাফাত কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩০",
+      "prefix": "সল",
+      "serial": "০০১৩০",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274107,
+      "name": "সাাদ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩১",
+      "prefix": "সল",
+      "serial": "০০১৩১",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274109,
+      "name": "রজুয়ান আহমেদ শিপন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩২",
+      "prefix": "সল",
+      "serial": "০০১৩২",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274111,
+      "name": "র-এ-সাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৩",
+      "prefix": "সল",
+      "serial": "০০১৩৩",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274113,
+      "name": "মাঃ শাহির রহমান চাু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৪",
+      "prefix": "সল",
+      "serial": "০০১৩৪",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274141,
+      "name": "মাঃ হিরা মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৫",
+      "prefix": "সল",
+      "serial": "০০১৩৫",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274143,
+      "name": "সাহার রহমান আপন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৬",
+      "prefix": "সল",
+      "serial": "০০১৩৬",
+      "department": "ইতিহাস বিভাগ",
+      "lineNumber": 274145,
+      "name": "চৗধরুী জাসের আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৭",
+      "prefix": "সল",
+      "serial": "০০১৩৭",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274199,
+      "name": "মহুাদ রাজু আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৮",
+      "prefix": "সল",
+      "serial": "০০১৩৮",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274201,
+      "name": "মা. জহির উিন সাট",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৩৯",
+      "prefix": "সল",
+      "serial": "০০১৩৯",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274203,
+      "name": "মা. সাকিব হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪০",
+      "prefix": "সল",
+      "serial": "০০১৪০",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274205,
+      "name": "মা: জিয়াউল আমিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪১",
+      "prefix": "সল",
+      "serial": "০০১৪১",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274233,
+      "name": "মা: শাহাদাত হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪২",
+      "prefix": "সল",
+      "serial": "০০১৪২",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274235,
+      "name": "মা:অাল-অামিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৩",
+      "prefix": "সল",
+      "serial": "০০১৪৩",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274237,
+      "name": "মাঃ ওমর ফাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৪",
+      "prefix": "সল",
+      "serial": "০০১৪৪",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274239,
+      "name": "মাঃ মহিবরু রহমান সৗরভ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৫",
+      "prefix": "সল",
+      "serial": "০০১৪৫",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274269,
+      "name": "শারাফাত হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৬",
+      "prefix": "সল",
+      "serial": "০০১৪৬",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274271,
+      "name": "শাহাদাত ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৭",
+      "prefix": "সল",
+      "serial": "০০১৪৭",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274273,
+      "name": "আুাহ আল কাফি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৮",
+      "prefix": "সল",
+      "serial": "০০১৪৮",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274275,
+      "name": "কৗশিক আহমেদ ইফতি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৪৯",
+      "prefix": "সল",
+      "serial": "০০১৪৯",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274303,
+      "name": "মহুাদ সাদমান রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫০",
+      "prefix": "সল",
+      "serial": "০০১৫০",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274305,
+      "name": "মহেরাব হাসাইন অপি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫১",
+      "prefix": "সল",
+      "serial": "০০১৫১",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274307,
+      "name": "মা : পলাশ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫২",
+      "prefix": "সল",
+      "serial": "০০১৫২",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274309,
+      "name": "মা: সজবী হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৩",
+      "prefix": "সল",
+      "serial": "০০১৫৩",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274339,
+      "name": "মা:নরূ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৪",
+      "prefix": "সল",
+      "serial": "০০১৫৪",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274341,
+      "name": "মাঃ তানভরী মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৫",
+      "prefix": "সল",
+      "serial": "০০১৫৫",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274343,
+      "name": "মাঃ মাহিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৬",
+      "prefix": "সল",
+      "serial": "০০১৫৬",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274345,
+      "name": "রাকিবলু হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৭",
+      "prefix": "সল",
+      "serial": "০০১৫৭",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274375,
+      "name": "সাদমান ফুয়াদ সাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৮",
+      "prefix": "সল",
+      "serial": "০০১৫৮",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274377,
+      "name": "ইশমাম ইয়ামিন ওয়াফী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৫৯",
+      "prefix": "সল",
+      "serial": "০০১৫৯",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274379,
+      "name": "ওমর ফাক হিমেল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬০",
+      "prefix": "সল",
+      "serial": "০০১৬০",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274381,
+      "name": "কাজী ফারজান আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬১",
+      "prefix": "সল",
+      "serial": "০০১৬১",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274409,
+      "name": "নাফিস আজম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬২",
+      "prefix": "সল",
+      "serial": "০০১৬২",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274411,
+      "name": "মাঃ আবির হাসান অয়ন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৩",
+      "prefix": "সল",
+      "serial": "০০১৬৩",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274413,
+      "name": "মাঃ তালহা ইবনে বাসার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৪",
+      "prefix": "সল",
+      "serial": "০০১৬৪",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274415,
+      "name": "মাঃ সাহেল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৫",
+      "prefix": "সল",
+      "serial": "০০১৬৫",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274443,
+      "name": "সাদিদ উর রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৬",
+      "prefix": "সল",
+      "serial": "০০১৬৬",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274445,
+      "name": "সাহিল রহমান চৗধরূী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৭",
+      "prefix": "সল",
+      "serial": "০০১৬৭",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274447,
+      "name": "সিনান আরাফাত সাজিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৮",
+      "prefix": "সল",
+      "serial": "০০১৬৮",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274449,
+      "name": "সিয়াম ইবনে মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৬৯",
+      "prefix": "সল",
+      "serial": "০০১৬৯",
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "lineNumber": 274511,
+      "name": "আসাামান মিলন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭০",
+      "prefix": "সল",
+      "serial": "০০১৭০",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274553,
+      "name": "মাঃ শাহির ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭১",
+      "prefix": "সল",
+      "serial": "০০১৭১",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274555,
+      "name": "তানভরী ফুয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭২",
+      "prefix": "সল",
+      "serial": "০০১৭২",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274557,
+      "name": "মামনু আী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৩",
+      "prefix": "সল",
+      "serial": "০০১৭৩",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274559,
+      "name": "মাহমুল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৪",
+      "prefix": "সল",
+      "serial": "০০১৭৪",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274587,
+      "name": "মাহমুল হাসান রায়হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৫",
+      "prefix": "সল",
+      "serial": "০০১৭৫",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274589,
+      "name": "মহুাদ মহুিুাহ খাঁন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৬",
+      "prefix": "সল",
+      "serial": "০০১৭৬",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274591,
+      "name": "মা : হিয়ার রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৭",
+      "prefix": "সল",
+      "serial": "০০১৭৭",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274593,
+      "name": "মাঃ অলিদ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৮",
+      "prefix": "সল",
+      "serial": "০০১৭৮",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274621,
+      "name": "মাঃ কামল ইসলাম নয়ন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৭৯",
+      "prefix": "সল",
+      "serial": "০০১৭৯",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274623,
+      "name": "মাঃ ল আবছার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮০",
+      "prefix": "সল",
+      "serial": "০০১৮০",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274625,
+      "name": "মাঃ মাহফজু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮১",
+      "prefix": "সল",
+      "serial": "০০১৮১",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274627,
+      "name": "শাহির রহমান সবজু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮২",
+      "prefix": "সল",
+      "serial": "০০১৮২",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274657,
+      "name": "সাজজাত কাদির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৩",
+      "prefix": "সল",
+      "serial": "০০১৮৩",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274659,
+      "name": "তাওহির রহমান নিরব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৪",
+      "prefix": "সল",
+      "serial": "০০১৮৪",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274661,
+      "name": "মাঃ মনুতাসির মিছবা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৫",
+      "prefix": "সল",
+      "serial": "০০১৮৫",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274663,
+      "name": "মাঃ মাতালেব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৬",
+      "prefix": "সল",
+      "serial": "০০১৮৬",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274693,
+      "name": "মাহিন আলম ভূঁইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৭",
+      "prefix": "সল",
+      "serial": "০০১৮৭",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274695,
+      "name": "রাহাতলু ইসলাম সামি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৮",
+      "prefix": "সল",
+      "serial": "০০১৮৮",
+      "department": "ইসলামিক াডিজ বিভাগ",
+      "lineNumber": 274697,
+      "name": "মাঃ তানভরী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৮৯",
+      "prefix": "সল",
+      "serial": "০০১৮৯",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274751,
+      "name": "আরাফাত রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯০",
+      "prefix": "সল",
+      "serial": "০০১৯০",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274753,
+      "name": "আল মামনু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯১",
+      "prefix": "সল",
+      "serial": "০০১৯১",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274755,
+      "name": "মাইন উিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯২",
+      "prefix": "সল",
+      "serial": "০০১৯২",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274757,
+      "name": "মা. সাকিবরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৩",
+      "prefix": "সল",
+      "serial": "০০১৯৩",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274787,
+      "name": "মা: মাহাফজুরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৪",
+      "prefix": "সল",
+      "serial": "০০১৯৪",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274789,
+      "name": "মা: শিবলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৫",
+      "prefix": "সল",
+      "serial": "০০১৯৫",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274791,
+      "name": "মাঃ আতির রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৬",
+      "prefix": "সল",
+      "serial": "০০১৯৬",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274793,
+      "name": "মাঃ আশরাফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৭",
+      "prefix": "সল",
+      "serial": "০০১৯৭",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274821,
+      "name": "মাঃ ইয়াব আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৮",
+      "prefix": "সল",
+      "serial": "০০১৯৮",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274823,
+      "name": "শাহনী আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০১৯৯",
+      "prefix": "সল",
+      "serial": "০০১৯৯",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274825,
+      "name": "সাির আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০০",
+      "prefix": "সল",
+      "serial": "০০২০০",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274827,
+      "name": "আুাহ আল মামনু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০১",
+      "prefix": "সল",
+      "serial": "০০২০১",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274855,
+      "name": "মা: ফরহাদ হাছান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০২",
+      "prefix": "সল",
+      "serial": "০০২০২",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274857,
+      "name": "মা. তাহমিদ রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৩",
+      "prefix": "সল",
+      "serial": "০০২০৩",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274859,
+      "name": "মা: আবু রায়হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৪",
+      "prefix": "সল",
+      "serial": "০০২০৪",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274861,
+      "name": "মাঃ তষুার ইমরান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৫",
+      "prefix": "সল",
+      "serial": "০০২০৫",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274891,
+      "name": "মাঃ শৗরব হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৬",
+      "prefix": "সল",
+      "serial": "০০২০৬",
+      "department": "ইসলামের ইতিহাস ও সংতৃি বিভাগ",
+      "lineNumber": 274893,
+      "name": "মাঃ সবজু আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৭",
+      "prefix": "সল",
+      "serial": "০০২০৭",
+      "department": "উইমেন এড জডার াডিজ বিভাগ",
+      "lineNumber": 274941,
+      "name": "কাজী শামামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৮",
+      "prefix": "সল",
+      "serial": "০০২০৮",
+      "department": "উইমেন এড জডার াডিজ বিভাগ",
+      "lineNumber": 274943,
+      "name": "মাহমুল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২০৯",
+      "prefix": "সল",
+      "serial": "০০২০৯",
+      "department": "উইমেন এড জডার াডিজ বিভাগ",
+      "lineNumber": 274945,
+      "name": "কাজী  সালামাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১০",
+      "prefix": "সল",
+      "serial": "০০২১০",
+      "department": "উয়ন অধয়ন বিভাগ",
+      "lineNumber": 274999,
+      "name": "আসিম হায়দার চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১১",
+      "prefix": "সল",
+      "serial": "০০২১১",
+      "department": "উয়ন অধয়ন বিভাগ",
+      "lineNumber": 275001,
+      "name": "আহমেদ তাহসিন ইকবাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১২",
+      "prefix": "সল",
+      "serial": "০০২১২",
+      "department": "উয়ন অধয়ন বিভাগ",
+      "lineNumber": 275003,
+      "name": "নিহাল আহনাফ রাফিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৩",
+      "prefix": "সল",
+      "serial": "০০২১৩",
+      "department": "উয়ন অধয়ন বিভাগ",
+      "lineNumber": 275005,
+      "name": "মাঃ লাবঙ্গবন্ধুী দাইয়ান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৪",
+      "prefix": "সল",
+      "serial": "০০২১৪",
+      "department": "উয়ন অধয়ন বিভাগ",
+      "lineNumber": 275035,
+      "name": "ইাহমী খললী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৫",
+      "prefix": "সল",
+      "serial": "০০২১৫",
+      "department": "উ বিভাগ",
+      "lineNumber": 275077,
+      "name": "মাঃ মহেদী হাসান হিমেল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৬",
+      "prefix": "সল",
+      "serial": "০০২১৬",
+      "department": "উ বিভাগ",
+      "lineNumber": 275079,
+      "name": "সাদী মামদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৭",
+      "prefix": "সল",
+      "serial": "০০২১৭",
+      "department": "উ বিভাগ",
+      "lineNumber": 275081,
+      "name": "ইসতাক আহেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৮",
+      "prefix": "সল",
+      "serial": "০০২১৮",
+      "department": "উ বিভাগ",
+      "lineNumber": 275083,
+      "name": "মাঃ আসাল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২১৯",
+      "prefix": "সল",
+      "serial": "০০২১৯",
+      "department": "উ বিভাগ",
+      "lineNumber": 275113,
+      "name": "মাঃ ইফতি আবির জিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২০",
+      "prefix": "সল",
+      "serial": "০০২২০",
+      "department": "উ বিভাগ",
+      "lineNumber": 275115,
+      "name": "লাক মাহমদু জাকারিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২১",
+      "prefix": "সল",
+      "serial": "০০২২১",
+      "department": "উ বিভাগ",
+      "lineNumber": 275117,
+      "name": "মা:শিপন বিাস",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৭",
+      "prefix": "সল",
+      "serial": "০০৬৬৭",
+      "department": "উ বিভাগ",
+      "lineNumber": 275119,
+      "name": "মা: সামছলু আল সাবিত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২২",
+      "prefix": "সল",
+      "serial": "০০২২২",
+      "department": "উ বিভাগ",
+      "lineNumber": 275149,
+      "name": "মাঃ আরাফাত ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৩",
+      "prefix": "সল",
+      "serial": "০০২২৩",
+      "department": "উ বিভাগ",
+      "lineNumber": 275151,
+      "name": "মাঃ দয় হাসেন রনি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৪",
+      "prefix": "সল",
+      "serial": "০০২২৪",
+      "department": "উ বিভাগ",
+      "lineNumber": 275153,
+      "name": "আসিফ আল মামনু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৫",
+      "prefix": "সল",
+      "serial": "০০২২৫",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275209,
+      "name": "মা: রিফাত হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৬",
+      "prefix": "সল",
+      "serial": "০০২২৬",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275211,
+      "name": "আতিক চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৭",
+      "prefix": "সল",
+      "serial": "০০২২৭",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275213,
+      "name": "আবরার জনুােয়দ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৮",
+      "prefix": "সল",
+      "serial": "০০২২৮",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275215,
+      "name": "কাজী মাহাথির মহুাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২২৯",
+      "prefix": "সল",
+      "serial": "০০২২৯",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275251,
+      "name": "জহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩০",
+      "prefix": "সল",
+      "serial": "০০২৩০",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275253,
+      "name": "জাওয়াদ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩১",
+      "prefix": "সল",
+      "serial": "০০২৩১",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275255,
+      "name": "মুাসিফ সাদাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩২",
+      "prefix": "সল",
+      "serial": "০০২৩২",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275257,
+      "name": "মাঃ ওবায়াহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৩",
+      "prefix": "সল",
+      "serial": "০০২৩৩",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275293,
+      "name": "মাহাদ রায়হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৪",
+      "prefix": "সল",
+      "serial": "০০২৩৪",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275295,
+      "name": "সাজির রহমান ছায়াব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৫",
+      "prefix": "সল",
+      "serial": "০০২৩৫",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275297,
+      "name": "সামস-আল- ফারহান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৬",
+      "prefix": "সল",
+      "serial": "০০২৩৬",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275299,
+      "name": "সাহরিয়া হাসেন সজবী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৭",
+      "prefix": "সল",
+      "serial": "০০২৩৭",
+      "department": "একাউিটং এড ইনফরমেশন",
+      "lineNumber": 275335,
+      "name": "মরী আশরাফলু বাশার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৮",
+      "prefix": "সল",
+      "serial": "০০২৩৮",
+      "department": "এডুকেশনাল এড কাউিলিং",
+      "lineNumber": 275379,
+      "name": "মহিউিন মজুাহিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৮",
+      "prefix": "সল",
+      "serial": "০০৬৬৮",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275423,
+      "name": "তাইজলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৩৯",
+      "prefix": "সল",
+      "serial": "০০২৩৯",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275425,
+      "name": "মুঃ তানযমী সামদানী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪০",
+      "prefix": "সল",
+      "serial": "০০২৪০",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275427,
+      "name": "মহুাদ মযুযািল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪১",
+      "prefix": "সল",
+      "serial": "০০২৪১",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275429,
+      "name": "মাঃ সবজু মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪২",
+      "prefix": "সল",
+      "serial": "০০২৪২",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275461,
+      "name": "সয়দ ইয়ানাথ ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৩",
+      "prefix": "সল",
+      "serial": "০০২৪৩",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275463,
+      "name": "সবজু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৪",
+      "prefix": "সল",
+      "serial": "০০২৪৪",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275465,
+      "name": "মা.রাকিবলু হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৫",
+      "prefix": "সল",
+      "serial": "০০২৪৫",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275467,
+      "name": "মরী ইমামলু এখওয়ান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৬",
+      "prefix": "সল",
+      "serial": "০০২৪৬",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275495,
+      "name": "মাঃ মাহফজুলু হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৭",
+      "prefix": "সল",
+      "serial": "০০২৪৭",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275497,
+      "name": "মাঃ রাহাত চৗধরুী পলুক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৮",
+      "prefix": "সল",
+      "serial": "০০২৪৮",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275499,
+      "name": "মাঃ সাকিবুামান সাট",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৪৯",
+      "prefix": "সল",
+      "serial": "০০২৪৯",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275501,
+      "name": "সাহেল খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫০",
+      "prefix": "সল",
+      "serial": "০০২৫০",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275531,
+      "name": "সৗধ জাাতলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫১",
+      "prefix": "সল",
+      "serial": "০০২৫১",
+      "department": "গণযোগাযোগ ও সাংবাদিকতা বিভাগ",
+      "lineNumber": 275533,
+      "name": "বারহান উনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫২",
+      "prefix": "সল",
+      "serial": "০০২৫২",
+      "department": "গণিত বিভাগ",
+      "lineNumber": 275581,
+      "name": "মা: ইমন মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৩",
+      "prefix": "সল",
+      "serial": "০০২৫৩",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275623,
+      "name": "মাঃ আশরাফলু আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৪",
+      "prefix": "সল",
+      "serial": "০০২৫৪",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275625,
+      "name": "মাঃ হাসার রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৫",
+      "prefix": "সল",
+      "serial": "০০২৫৫",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275627,
+      "name": "রজাউল করিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৬",
+      "prefix": "সল",
+      "serial": "০০২৫৬",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275629,
+      "name": "ইসফাল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৭",
+      "prefix": "সল",
+      "serial": "০০২৫৭",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275659,
+      "name": "এম. আয়াতুাহ বহেী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৮",
+      "prefix": "সল",
+      "serial": "০০২৫৮",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275661,
+      "name": "তাসিন নাদিম খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৫৯",
+      "prefix": "সল",
+      "serial": "০০২৫৯",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275663,
+      "name": "মাঃ আহরাফ খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬০",
+      "prefix": "সল",
+      "serial": "০০২৬০",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275665,
+      "name": "সাহেল সাইমমু খান রাদিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬১",
+      "prefix": "সল",
+      "serial": "০০২৬১",
+      "department": "জাপানিজ াডিজ বিভাগ",
+      "lineNumber": 275693,
+      "name": "মাঃ আবু তালহা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬২",
+      "prefix": "সল",
+      "serial": "০০২৬২",
+      "department": "টিভি ও চলি অধয়ন বিভাগ",
+      "lineNumber": 275735,
+      "name": "এম হাসিন ইশমাম শ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৩",
+      "prefix": "সল",
+      "serial": "০০২৬৩",
+      "department": "টিভি ও চলি অধয়ন বিভাগ",
+      "lineNumber": 275737,
+      "name": "তাওসিফ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৪",
+      "prefix": "সল",
+      "serial": "০০২৬৪",
+      "department": "টিভি ও চলি অধয়ন বিভাগ",
+      "lineNumber": 275739,
+      "name": "শখ তানভরী ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৫",
+      "prefix": "সল",
+      "serial": "০০২৬৫",
+      "department": "টিভি ও চলি অধয়ন বিভাগ",
+      "lineNumber": 275741,
+      "name": "আনির রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৬",
+      "prefix": "সল",
+      "serial": "০০২৬৬",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275801,
+      "name": "আরিফলু হাসান হিমেল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৭",
+      "prefix": "সল",
+      "serial": "০০২৬৭",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275803,
+      "name": "ইমতিয়াজ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৮",
+      "prefix": "সল",
+      "serial": "০০২৬৮",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275805,
+      "name": "খালেদ মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৬৯",
+      "prefix": "সল",
+      "serial": "০০২৬৯",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275807,
+      "name": "নাজমলু হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭০",
+      "prefix": "সল",
+      "serial": "০০২৭০",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275843,
+      "name": "ফাহিম আহমদ খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭১",
+      "prefix": "সল",
+      "serial": "০০২৭১",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275845,
+      "name": "মারজান আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭২",
+      "prefix": "সল",
+      "serial": "০০২৭২",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275847,
+      "name": "মা. নাঈমরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৩",
+      "prefix": "সল",
+      "serial": "০০২৭৩",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275849,
+      "name": "মা.তাসনিমলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৪",
+      "prefix": "সল",
+      "serial": "০০২৭৪",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275887,
+      "name": "মা: রাহাত আরমান সলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৫",
+      "prefix": "সল",
+      "serial": "০০২৭৫",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275889,
+      "name": "মাঃ আফিক রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৬",
+      "prefix": "সল",
+      "serial": "০০২৭৬",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275891,
+      "name": "মাঃ জাহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৭",
+      "prefix": "সল",
+      "serial": "০০২৭৭",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275893,
+      "name": "মাঃ মাদ রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৮",
+      "prefix": "সল",
+      "serial": "০০২৭৮",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275929,
+      "name": "মাঃ রিফাত রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৭৯",
+      "prefix": "সল",
+      "serial": "০০২৭৯",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275931,
+      "name": "মাঃ শিমলু পারভেজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮০",
+      "prefix": "সল",
+      "serial": "০০২৮০",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275933,
+      "name": "মাঃ হাবিবরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮১",
+      "prefix": "সল",
+      "serial": "০০২৮১",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275935,
+      "name": "মাহাদ ফরহাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮২",
+      "prefix": "সল",
+      "serial": "০০২৮২",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275973,
+      "name": "রবিউল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৩",
+      "prefix": "সল",
+      "serial": "০০২৮৩",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275975,
+      "name": "রিফাত ভূইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৪",
+      "prefix": "সল",
+      "serial": "০০২৮৪",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275977,
+      "name": "আসিফ তৗহিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৫",
+      "prefix": "সল",
+      "serial": "০০২৮৫",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 275979,
+      "name": "তাসনিমলু গাফার মু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৬",
+      "prefix": "সল",
+      "serial": "০০২৮৬",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276015,
+      "name": "মাঃ শাখাওয়াত হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৭",
+      "prefix": "সল",
+      "serial": "০০২৮৭",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276017,
+      "name": "সামিউল আলম রাজু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৮",
+      "prefix": "সল",
+      "serial": "০০২৮৮",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276019,
+      "name": "জাওয়াদ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৮৯",
+      "prefix": "সল",
+      "serial": "০০২৮৯",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276021,
+      "name": "মা. নাফিস আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯০",
+      "prefix": "সল",
+      "serial": "০০২৯০",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276057,
+      "name": "মা: মাহির লাবিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯১",
+      "prefix": "সল",
+      "serial": "০০২৯১",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276059,
+      "name": "মাঃ সাদমান সাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯২",
+      "prefix": "সল",
+      "serial": "০০২৯২",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276061,
+      "name": "সামিন ইয়াছার রাফছান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৩",
+      "prefix": "সল",
+      "serial": "০০২৯৩",
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "lineNumber": 276063,
+      "name": "মা: জাহিল আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৪",
+      "prefix": "সল",
+      "serial": "০০২৯৪",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276133,
+      "name": "মাঃ হাসিবরু রশিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৫",
+      "prefix": "সল",
+      "serial": "০০২৯৫",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276135,
+      "name": "আদিত কামাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৬",
+      "prefix": "সল",
+      "serial": "০০২৯৬",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276137,
+      "name": "আলী আরসাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৭",
+      "prefix": "সল",
+      "serial": "০০২৯৭",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276139,
+      "name": "মা. সাকিব আল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৮",
+      "prefix": "সল",
+      "serial": "০০২৯৮",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276177,
+      "name": "শখ মা: মাবােল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০২৯৯",
+      "prefix": "সল",
+      "serial": "০০২৯৯",
+      "department": "ডিজাার মানেজমেট এড",
+      "lineNumber": 276179,
+      "name": "মাঃ ওসমান গণি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০০",
+      "prefix": "সল",
+      "serial": "০০৩০০",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276231,
+      "name": "মাঃ নাজিম উনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০১",
+      "prefix": "সল",
+      "serial": "০০৩০১",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276233,
+      "name": "সাকিব হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০২",
+      "prefix": "সল",
+      "serial": "০০৩০২",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276235,
+      "name": "আরবী জাওয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৩",
+      "prefix": "সল",
+      "serial": "০০৩০৩",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276237,
+      "name": "ইভান ইমরোজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৪",
+      "prefix": "সল",
+      "serial": "০০৩০৪",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276273,
+      "name": "জাহিন তাহসান ওয়াসি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৫",
+      "prefix": "সল",
+      "serial": "০০৩০৫",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276275,
+      "name": "মাঃ মাাফিজরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৬",
+      "prefix": "সল",
+      "serial": "০০৩০৬",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276277,
+      "name": "মাঃ সামির আহােদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৭",
+      "prefix": "সল",
+      "serial": "০০৩০৭",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276279,
+      "name": "মাঃ সাহাইললু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৮",
+      "prefix": "সল",
+      "serial": "০০৩০৮",
+      "department": "তথবিান ও থাগার ববাপনা",
+      "lineNumber": 276317,
+      "name": "এ. আর. া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩০৯",
+      "prefix": "সল",
+      "serial": "০০৩০৯",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276363,
+      "name": "আমির হামজা অনিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১০",
+      "prefix": "সল",
+      "serial": "০০৩১০",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276365,
+      "name": "আলিরাজ বপারী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১১",
+      "prefix": "সল",
+      "serial": "০০৩১১",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276367,
+      "name": "ফেয়জ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১২",
+      "prefix": "সল",
+      "serial": "০০৩১২",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276369,
+      "name": "মাহামুল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৩",
+      "prefix": "সল",
+      "serial": "০০৩১৩",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276397,
+      "name": "মা: ওমর ফাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৪",
+      "prefix": "সল",
+      "serial": "০০৩১৪",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276399,
+      "name": "মাঃ মাজােল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৫",
+      "prefix": "সল",
+      "serial": "০০৩১৫",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276401,
+      "name": "মাঃ রিমন হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৬",
+      "prefix": "সল",
+      "serial": "০০৩১৬",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276403,
+      "name": "মাঃ হান-অর রশিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৭",
+      "prefix": "সল",
+      "serial": "০০৩১৭",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276431,
+      "name": "মাঃ মুা আরিফ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৮",
+      "prefix": "সল",
+      "serial": "০০৩১৮",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276433,
+      "name": "মাঃ নওয়াজ শরফী ইমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩১৯",
+      "prefix": "সল",
+      "serial": "০০৩১৯",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276435,
+      "name": "মাঃ খালেদ হায়দার সায়র",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২০",
+      "prefix": "সল",
+      "serial": "০০৩২০",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276437,
+      "name": "মাঃ জিহাদ মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২১",
+      "prefix": "সল",
+      "serial": "০০৩২১",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276465,
+      "name": "মাঃ রাজেল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২২",
+      "prefix": "সল",
+      "serial": "০০৩২২",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276467,
+      "name": "মাহাদ সাজদী হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২৩",
+      "prefix": "সল",
+      "serial": "০০৩২৩",
+      "department": "দশন বিভাগ",
+      "lineNumber": 276469,
+      "name": "মা.মজবাল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২৪",
+      "prefix": "সল",
+      "serial": "০০৩২৪",
+      "department": "নাট ও দশন কলা অধয়ন বিভাগ",
+      "lineNumber": 276523,
+      "name": "মাহাদি হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২৫",
+      "prefix": "সল",
+      "serial": "০০৩২৫",
+      "department": "নাট ও দশন কলা অধয়ন বিভাগ",
+      "lineNumber": 276525,
+      "name": "জাহিদ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২৬",
+      "prefix": "সল",
+      "serial": "০০৩২৬",
+      "department": "ন তৃকলা বিভাগ",
+      "lineNumber": 276575,
+      "name": "তাওহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩২৭",
+      "prefix": "সল",
+      "serial": "০০৩২৭",
+      "department": "ন তৃকলা বিভাগ",
+      "lineNumber": 276577,
+      "name": "মাহাদ বােয়জিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩০",
+      "prefix": "সল",
+      "serial": "০০৩৩০",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276625,
+      "name": "সয়দ মাইল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩১",
+      "prefix": "সল",
+      "serial": "০০৩৩১",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276627,
+      "name": "সয়দ বােয়জিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩২",
+      "prefix": "সল",
+      "serial": "০০৩৩২",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276629,
+      "name": "মাঃ মাদ রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৩",
+      "prefix": "সল",
+      "serial": "০০৩৩৩",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276631,
+      "name": "অপ রতন দালন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৪",
+      "prefix": "সল",
+      "serial": "০০৩৩৪",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276659,
+      "name": "দৃ জাওয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৫",
+      "prefix": "সল",
+      "serial": "০০৩৩৫",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276661,
+      "name": "সাজিদ হাসান সাইয়ান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৬",
+      "prefix": "সল",
+      "serial": "০০৩৩৬",
+      "department": "ন বৃিান বিভাগ",
+      "lineNumber": 276663,
+      "name": "মা. মাহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৭",
+      "prefix": "সল",
+      "serial": "০০৩৩৭",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276717,
+      "name": "সােয় শাহরিয়ার নিরব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৮",
+      "prefix": "সল",
+      "serial": "০০৩৩৮",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276719,
+      "name": "ফয়সল আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৩৯",
+      "prefix": "সল",
+      "serial": "০০৩৩৯",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276721,
+      "name": "মাঃ শাকের উল রিফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪০",
+      "prefix": "সল",
+      "serial": "০০৩৪০",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276723,
+      "name": "মাশেদ আল-মাহি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪১",
+      "prefix": "সল",
+      "serial": "০০৩৪১",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276753,
+      "name": "মাহাদ আহনাফ আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪২",
+      "prefix": "সল",
+      "serial": "০০৩৪২",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276755,
+      "name": "বাইয়াৎ রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৩",
+      "prefix": "সল",
+      "serial": "০০৩৪৩",
+      "department": "পপুলেশন সােয়েস বিভাগ",
+      "lineNumber": 276757,
+      "name": "মাঃ মাকর রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৪",
+      "prefix": "সল",
+      "serial": "০০৩৪৪",
+      "department": "পরিসংখান গবেষণা ও শিণ",
+      "lineNumber": 276811,
+      "name": "এনামলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৫",
+      "prefix": "সল",
+      "serial": "০০৩৪৫",
+      "department": "পালি এড বুি াডিজ বিভাগ",
+      "lineNumber": 276855,
+      "name": "মা. মাদ রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৬",
+      "prefix": "সল",
+      "serial": "০০৩৪৬",
+      "department": "পালি এড বুি াডিজ বিভাগ",
+      "lineNumber": 276857,
+      "name": "মাঃ আলামিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৭",
+      "prefix": "সল",
+      "serial": "০০৩৪৭",
+      "department": "পালি এড বুি াডিজ বিভাগ",
+      "lineNumber": 276859,
+      "name": "মাঃ মাাফিজরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৮",
+      "prefix": "সল",
+      "serial": "০০৩৪৮",
+      "department": "পালি এড বুি াডিজ বিভাগ",
+      "lineNumber": 276861,
+      "name": "ইয়ালিদ বিন সাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৪৯",
+      "prefix": "সল",
+      "serial": "০০৩৪৯",
+      "department": "িট মকিং বিভাগ",
+      "lineNumber": 276921,
+      "name": "মহুাাদ খালিদ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫০",
+      "prefix": "সল",
+      "serial": "০০৩৫০",
+      "department": "িিটং এড পাবলিকেশন াডিজ",
+      "lineNumber": 276963,
+      "name": "মাঃ রাফিউল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫১",
+      "prefix": "সল",
+      "serial": "০০৩৫১",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277009,
+      "name": "মাঃ শহীল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫২",
+      "prefix": "সল",
+      "serial": "০০৩৫২",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277011,
+      "name": "কাজী লতান মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৩",
+      "prefix": "সল",
+      "serial": "০০৩৫৩",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277013,
+      "name": "মাঃ মাহফজু আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৪",
+      "prefix": "সল",
+      "serial": "০০৩৫৪",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277015,
+      "name": "মাঃ সকত হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৫",
+      "prefix": "সল",
+      "serial": "০০৩৫৫",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277043,
+      "name": "রিফাত মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৬",
+      "prefix": "সল",
+      "serial": "০০৩৫৬",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277045,
+      "name": "এসকে শাদ করিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৭",
+      "prefix": "সল",
+      "serial": "০০৩৫৭",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277047,
+      "name": "মাহফজুলু হক সাফিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৮",
+      "prefix": "সল",
+      "serial": "০০৩৫৮",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277049,
+      "name": "মা: রাকামান রাকন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৫৯",
+      "prefix": "সল",
+      "serial": "০০৩৫৯",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277077,
+      "name": "শামল আরেফিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬০",
+      "prefix": "সল",
+      "serial": "০০৩৬০",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277079,
+      "name": "শামমী শখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬১",
+      "prefix": "সল",
+      "serial": "০০৩৬১",
+      "department": "ফারসি ভাষা ও সাহিত বিভাগ",
+      "lineNumber": 277081,
+      "name": "মা: মামিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬২",
+      "prefix": "সল",
+      "serial": "০০৩৬২",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277135,
+      "name": "আবাহ রাবাব চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৩",
+      "prefix": "সল",
+      "serial": "০০৩৬৩",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277137,
+      "name": "মা: ইমদাদ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৪",
+      "prefix": "সল",
+      "serial": "০০৩৬৪",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277139,
+      "name": "মাঃ অলিউল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৫",
+      "prefix": "সল",
+      "serial": "০০৩৬৫",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277141,
+      "name": "মাঃ রাহাল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৬",
+      "prefix": "সল",
+      "serial": "০০৩৬৬",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277171,
+      "name": "শাফােয়ত হায়দার চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৭",
+      "prefix": "সল",
+      "serial": "০০৩৬৭",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277173,
+      "name": "সাহাইল আহমেদ সা'দ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৮",
+      "prefix": "সল",
+      "serial": "০০৩৬৮",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277175,
+      "name": "সয়দ মনুতাসরী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৬৯",
+      "prefix": "সল",
+      "serial": "০০৩৬৯",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277177,
+      "name": "আইয়ান সারোয়ার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭০",
+      "prefix": "সল",
+      "serial": "০০৩৭০",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277205,
+      "name": "আনান রহমান ভূইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭১",
+      "prefix": "সল",
+      "serial": "০০৩৭১",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277207,
+      "name": "আবর রহমান রবি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭২",
+      "prefix": "সল",
+      "serial": "০০৩৭২",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277209,
+      "name": "আবেদ হাসেন আয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৩",
+      "prefix": "সল",
+      "serial": "০০৩৭৩",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277211,
+      "name": "আল শাহরিয়ার সামি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৪",
+      "prefix": "সল",
+      "serial": "০০৩৭৪",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277239,
+      "name": "আল-আমিন হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৫",
+      "prefix": "সল",
+      "serial": "০০৩৭৫",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277241,
+      "name": "আলমীলু হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৬",
+      "prefix": "সল",
+      "serial": "০০৩৭৬",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277243,
+      "name": "ইমরান খান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৭",
+      "prefix": "সল",
+      "serial": "০০৩৭৭",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277245,
+      "name": "ইমাম মাহদী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৮",
+      "prefix": "সল",
+      "serial": "০০৩৭৮",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277275,
+      "name": "কাজী ফাতনী মাহাতাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৭৯",
+      "prefix": "সল",
+      "serial": "০০৩৭৯",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277277,
+      "name": "খালিদ সাইফুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮০",
+      "prefix": "সল",
+      "serial": "০০৩৮০",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277279,
+      "name": "তানিম হাসেন সপূন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮১",
+      "prefix": "সল",
+      "serial": "০০৩৮১",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277281,
+      "name": "তাসিন মাহমদু এশা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮২",
+      "prefix": "সল",
+      "serial": "০০৩৮২",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277311,
+      "name": "মাহাদী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৩",
+      "prefix": "সল",
+      "serial": "০০৩৮৩",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277313,
+      "name": "মা: মাসলিনিয়া আদন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৪",
+      "prefix": "সল",
+      "serial": "০০৩৮৪",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277315,
+      "name": "মাঃ মাহতাব হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৫",
+      "prefix": "সল",
+      "serial": "০০৩৮৫",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277317,
+      "name": "মাঃ মাহিন আল ইমদাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৬",
+      "prefix": "সল",
+      "serial": "০০৩৮৬",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277347,
+      "name": "মাঃ সিরাজলু ইসলাম নরূ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৭",
+      "prefix": "সল",
+      "serial": "০০৩৮৭",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277349,
+      "name": "মাহাদ নাদন বাশার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৮",
+      "prefix": "সল",
+      "serial": "০০৩৮৮",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277351,
+      "name": "সাদমান সাকিবুামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৮৯",
+      "prefix": "সল",
+      "serial": "০০৩৮৯",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277353,
+      "name": "সাদমান সিিকী রাকিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯০",
+      "prefix": "সল",
+      "serial": "০০৩৯০",
+      "department": "ফিা বিভাগ",
+      "lineNumber": 277385,
+      "name": "আকতার হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯১",
+      "prefix": "সল",
+      "serial": "০০৩৯১",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277427,
+      "name": "মাঃ আবু সািয়ম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯২",
+      "prefix": "সল",
+      "serial": "০০৩৯২",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277429,
+      "name": "মাঃ মহেরাব হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৩",
+      "prefix": "সল",
+      "serial": "০০৩৯৩",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277431,
+      "name": "মাঃ শামমী অহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৪",
+      "prefix": "সল",
+      "serial": "০০৩৯৪",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277433,
+      "name": "মাঃ খলিলরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৫",
+      "prefix": "সল",
+      "serial": "০০৩৯৫",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277461,
+      "name": "আশরাফলু অালম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৬",
+      "prefix": "সল",
+      "serial": "০০৩৯৬",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277463,
+      "name": "মা.তানবরী রায়হান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৫",
+      "prefix": "সল",
+      "serial": "০০৬৬৫",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277465,
+      "name": "মা: সালমান খকার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৮",
+      "prefix": "সল",
+      "serial": "০০৩৯৮",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277467,
+      "name": "মাঃ আরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৩৯৯",
+      "prefix": "সল",
+      "serial": "০০৩৯৯",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277497,
+      "name": "সাদ আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০০",
+      "prefix": "সল",
+      "serial": "০০৪০০",
+      "department": "বাংলা বিভাগ",
+      "lineNumber": 277499,
+      "name": "মাহাদ বদিামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০১",
+      "prefix": "সল",
+      "serial": "০০৪০১",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277547,
+      "name": "এস.এম সায়াদ বিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০২",
+      "prefix": "সল",
+      "serial": "০০৪০২",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277549,
+      "name": "জাওয়াদ হাসেন ইমরান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৩",
+      "prefix": "সল",
+      "serial": "০০৪০৩",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277551,
+      "name": "মিশন হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৪",
+      "prefix": "সল",
+      "serial": "০০৪০৪",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277553,
+      "name": "মা: ফরহাদ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৫",
+      "prefix": "সল",
+      "serial": "০০৪০৫",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277583,
+      "name": "আল শাহারিয়ার আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৬",
+      "prefix": "সল",
+      "serial": "০০৪০৬",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277585,
+      "name": "মাঃ আলামিন হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৭",
+      "prefix": "সল",
+      "serial": "০০৪০৭",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277587,
+      "name": "মাঃ জ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৮",
+      "prefix": "সল",
+      "serial": "০০৪০৮",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277589,
+      "name": "মাঃ জাহারী আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪০৯",
+      "prefix": "সল",
+      "serial": "০০৪০৯",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277621,
+      "name": "তারজমুান হাসান মহুাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১০",
+      "prefix": "সল",
+      "serial": "০০৪১০",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277623,
+      "name": "মা:রাউফির আল সাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১১",
+      "prefix": "সল",
+      "serial": "০০৪১১",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277625,
+      "name": "মাঃ কামল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১২",
+      "prefix": "সল",
+      "serial": "০০৪১২",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277627,
+      "name": "সাদমান শাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৩",
+      "prefix": "সল",
+      "serial": "০০৪১৩",
+      "department": "বি ধম ও সংতৃি বিভাগ",
+      "lineNumber": 277657,
+      "name": "মাঃ আল-আমিন ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৪",
+      "prefix": "সল",
+      "serial": "০০৪১৪",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277699,
+      "name": "মাঃ শাহাামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৫",
+      "prefix": "সল",
+      "serial": "০০৪১৫",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277701,
+      "name": "মাঃ সাজেল আলম ভ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৬",
+      "prefix": "সল",
+      "serial": "০০৪১৬",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277703,
+      "name": "মাঃ মহেদী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৭",
+      "prefix": "সল",
+      "serial": "০০৪১৭",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277705,
+      "name": "আজমাইন আদিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৮",
+      "prefix": "সল",
+      "serial": "০০৪১৮",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277735,
+      "name": "আল নামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪১৯",
+      "prefix": "সল",
+      "serial": "০০৪১৯",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277737,
+      "name": "ওলিদ শখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২০",
+      "prefix": "সল",
+      "serial": "০০৪২০",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277739,
+      "name": "তাসনিম আহমেদ বাই",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২১",
+      "prefix": "সল",
+      "serial": "০০৪২১",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277741,
+      "name": "নাজমলু মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২২",
+      "prefix": "সল",
+      "serial": "০০৪২২",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277769,
+      "name": "মাফ হাসেন ইয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৩",
+      "prefix": "সল",
+      "serial": "০০৪২৩",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277771,
+      "name": "মাহির আশহাব আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৪",
+      "prefix": "সল",
+      "serial": "০০৪২৪",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277773,
+      "name": "মা: মসিউর রহমান মুা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৫",
+      "prefix": "সল",
+      "serial": "০০৪২৫",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277775,
+      "name": "মাঃ আঃ আউয়াল শখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৬",
+      "prefix": "সল",
+      "serial": "০০৪২৬",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277803,
+      "name": "মাঃ রাজন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৭",
+      "prefix": "সল",
+      "serial": "০০৪২৭",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277805,
+      "name": "মাঃ সালমান মাা মাফ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৮",
+      "prefix": "সল",
+      "serial": "০০৪২৮",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277807,
+      "name": "মাঃ সাহিল হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪২৯",
+      "prefix": "সল",
+      "serial": "০০৪২৯",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277809,
+      "name": "শদান ফারহান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩০",
+      "prefix": "সল",
+      "serial": "০০৪৩০",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277839,
+      "name": "শখ রজওয়ান আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩১",
+      "prefix": "সল",
+      "serial": "০০৪৩১",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277841,
+      "name": "সাইফলু সরকার সিয়াম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩২",
+      "prefix": "সল",
+      "serial": "০০৪৩২",
+      "department": "ববাপনা বিভাগ",
+      "lineNumber": 277843,
+      "name": "আুাহ আল মাবারক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৩",
+      "prefix": "সল",
+      "serial": "০০৪৩৩",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277897,
+      "name": "এসহাক আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৪",
+      "prefix": "সল",
+      "serial": "০০৪৩৪",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277899,
+      "name": "মাঃ জাহিল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৫",
+      "prefix": "সল",
+      "serial": "০০৪৩৫",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277901,
+      "name": "সরকার নাহিয়ান হাসনাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৬",
+      "prefix": "সল",
+      "serial": "০০৪৩৬",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277903,
+      "name": "নাইমরু রহমান নাহিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৭",
+      "prefix": "সল",
+      "serial": "০০৪৩৭",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277933,
+      "name": "মিরাজ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৮",
+      "prefix": "সল",
+      "serial": "০০৪৩৮",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277935,
+      "name": "মা.ফজলে রাি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৩৯",
+      "prefix": "সল",
+      "serial": "০০৪৩৯",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277937,
+      "name": "মা: শখ ফরিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪০",
+      "prefix": "সল",
+      "serial": "০০৪৪০",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277939,
+      "name": "মাঃ আরমান মডল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪১",
+      "prefix": "সল",
+      "serial": "০০৪৪১",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277969,
+      "name": "মাঃ রিপন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪২",
+      "prefix": "সল",
+      "serial": "০০৪৪২",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277971,
+      "name": "মাহাদ ওমর ফাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৩",
+      "prefix": "সল",
+      "serial": "০০৪৪৩",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277973,
+      "name": "রাি হাসেন জিসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৪",
+      "prefix": "সল",
+      "serial": "০০৪৪৪",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 277975,
+      "name": "রাহাতলু ইসলাম শা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৫",
+      "prefix": "সল",
+      "serial": "০০৪৪৫",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278003,
+      "name": "শাহরিয়ার আহমেদ আদিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৬",
+      "prefix": "সল",
+      "serial": "০০৪৪৬",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278005,
+      "name": "সাইফ আহেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৭",
+      "prefix": "সল",
+      "serial": "০০৪৪৭",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278007,
+      "name": "হাবিবরু রহমান রাফি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৮",
+      "prefix": "সল",
+      "serial": "০০৪৪৮",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278009,
+      "name": "আহনাফ আলম চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৪৯",
+      "prefix": "সল",
+      "serial": "০০৪৪৯",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278037,
+      "name": "এ.এ. ফারাবী আজিজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫০",
+      "prefix": "সল",
+      "serial": "০০৪৫০",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278039,
+      "name": "ফাতল বারী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫১",
+      "prefix": "সল",
+      "serial": "০০৪৫১",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278041,
+      "name": "মা. আরিফ হাসেন শা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫২",
+      "prefix": "সল",
+      "serial": "০০৪৫২",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278043,
+      "name": "মা. ইনামলু হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৩",
+      "prefix": "সল",
+      "serial": "০০৪৫৩",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278071,
+      "name": "মাঃ জবুােয়দ শিকদার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৪",
+      "prefix": "সল",
+      "serial": "০০৪৫৪",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278073,
+      "name": "মাঃ সায়াদ কফিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৫",
+      "prefix": "সল",
+      "serial": "০০৪৫৫",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278075,
+      "name": "মাবাশির মওদ সাদাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৬",
+      "prefix": "সল",
+      "serial": "০০৪৫৬",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278077,
+      "name": "মাহাদ মাহফজুরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৭",
+      "prefix": "সল",
+      "serial": "০০৪৫৭",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278105,
+      "name": "হিসান আহমেদ জয়",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৮",
+      "prefix": "সল",
+      "serial": "০০৪৫৮",
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "lineNumber": 278107,
+      "name": "মনিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৫৯",
+      "prefix": "সল",
+      "serial": "০০৪৫৯",
+      "department": "ভাষাবিান বিভাগ",
+      "lineNumber": 278155,
+      "name": "মাঃ শাহারিয়ার আশরাফী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬০",
+      "prefix": "সল",
+      "serial": "০০৪৬০",
+      "department": "ভাষাবিান বিভাগ",
+      "lineNumber": 278157,
+      "name": "মু সাদ ইবনে কালাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬১",
+      "prefix": "সল",
+      "serial": "০০৪৬১",
+      "department": "ভাষাবিান বিভাগ",
+      "lineNumber": 278159,
+      "name": "মাঃ রিফাত আল নামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬২",
+      "prefix": "সল",
+      "serial": "০০৪৬২",
+      "department": "ভাষাবিান বিভাগ",
+      "lineNumber": 278161,
+      "name": "জাহিদ মাা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৩",
+      "prefix": "সল",
+      "serial": "০০৪৬৩",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278223,
+      "name": "মাঃ আহসান হাবিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৪",
+      "prefix": "সল",
+      "serial": "০০৪৬৪",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278225,
+      "name": "মাঃ নাজমলু দা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৫",
+      "prefix": "সল",
+      "serial": "০০৪৬৫",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278227,
+      "name": "আমাা রিফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৬",
+      "prefix": "সল",
+      "serial": "০০৪৬৬",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278229,
+      "name": "বেল আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৭",
+      "prefix": "সল",
+      "serial": "০০৪৬৭",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278257,
+      "name": "শাহনেওয়াজ তাইব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৮",
+      "prefix": "সল",
+      "serial": "০০৪৬৮",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278259,
+      "name": "সাদমান আুাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৬৯",
+      "prefix": "সল",
+      "serial": "০০৪৬৯",
+      "department": "ভূগোল ও পরিবেশ বিভাগ",
+      "lineNumber": 278261,
+      "name": "নাইমরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭০",
+      "prefix": "সল",
+      "serial": "০০৪৭০",
+      "department": "মনোবিান বিভাগ",
+      "lineNumber": 278315,
+      "name": "মাঃ ইাহিম আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭১",
+      "prefix": "সল",
+      "serial": "০০৪৭১",
+      "department": "মনোবিান বিভাগ",
+      "lineNumber": 278317,
+      "name": "মাঃ শাহরিয়ার হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭২",
+      "prefix": "সল",
+      "serial": "০০৪৭২",
+      "department": "মনোবিান বিভাগ",
+      "lineNumber": 278319,
+      "name": "শাহ মা: নাসির উিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৩",
+      "prefix": "সল",
+      "serial": "০০৪৭৩",
+      "department": "মনোবিান বিভাগ",
+      "lineNumber": 278321,
+      "name": "অনগ রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৪",
+      "prefix": "সল",
+      "serial": "০০৪৭৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278385,
+      "name": "অনিক হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৫",
+      "prefix": "সল",
+      "serial": "০০৪৭৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278387,
+      "name": "আঃ রাাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৬",
+      "prefix": "সল",
+      "serial": "০০৪৭৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278389,
+      "name": "আফনান হাসেন আদিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৭",
+      "prefix": "সল",
+      "serial": "০০৪৭৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278391,
+      "name": "আবু বকর সিিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৮",
+      "prefix": "সল",
+      "serial": "০০৪৭৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278419,
+      "name": "আবু বর সিিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৭৯",
+      "prefix": "সল",
+      "serial": "০০৪৭৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278421,
+      "name": "আলু শাকিল মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮০",
+      "prefix": "সল",
+      "serial": "০০৪৮০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278423,
+      "name": "আমান উাহ আমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮১",
+      "prefix": "সল",
+      "serial": "০০৪৮১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278425,
+      "name": "আরিফুামান আরিফ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮২",
+      "prefix": "সল",
+      "serial": "০০৪৮২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278453,
+      "name": "ইফতেখার কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৩",
+      "prefix": "সল",
+      "serial": "০০৪৮৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278455,
+      "name": "ইমরান হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৪",
+      "prefix": "সল",
+      "serial": "০০৪৮৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278457,
+      "name": "ইয়াছির রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৫",
+      "prefix": "সল",
+      "serial": "০০৪৮৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278459,
+      "name": "কাজী পলুক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৬",
+      "prefix": "সল",
+      "serial": "০০৪৮৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278487,
+      "name": "কামল হাসান আকন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৭",
+      "prefix": "সল",
+      "serial": "০০৪৮৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278489,
+      "name": "নাঈম হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৮",
+      "prefix": "সল",
+      "serial": "০০৪৮৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278491,
+      "name": "ল আনোয়ার ছিিকী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৮৯",
+      "prefix": "সল",
+      "serial": "০০৪৮৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278493,
+      "name": "নয়ামলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯০",
+      "prefix": "সল",
+      "serial": "০০৪৯০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278521,
+      "name": "ফয়সাল আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯১",
+      "prefix": "সল",
+      "serial": "০০৪৯১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278523,
+      "name": "মাহমদু হাসান বিশাল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯২",
+      "prefix": "সল",
+      "serial": "০০৪৯২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278525,
+      "name": "মাহিন আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৩",
+      "prefix": "সল",
+      "serial": "০০৪৯৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278527,
+      "name": "মরী রবিউল হক ইমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৪",
+      "prefix": "সল",
+      "serial": "০০৪৯৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278555,
+      "name": "মহেদী হাসান তানভরী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৫",
+      "prefix": "সল",
+      "serial": "০০৪৯৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278557,
+      "name": "মা. সাির হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৬",
+      "prefix": "সল",
+      "serial": "০০৪৯৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278559,
+      "name": "মা: শাওন কাজী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৭",
+      "prefix": "সল",
+      "serial": "০০৪৯৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278561,
+      "name": "মা: হিরন শখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৮",
+      "prefix": "সল",
+      "serial": "০০৪৯৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278589,
+      "name": "মাঃ আসিফ কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৪৯৯",
+      "prefix": "সল",
+      "serial": "০০৪৯৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278591,
+      "name": "মাঃ ওমর ফাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০০",
+      "prefix": "সল",
+      "serial": "০০৫০০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278593,
+      "name": "মাঃ নী ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০১",
+      "prefix": "সল",
+      "serial": "০০৫০১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278595,
+      "name": "মাঃ ল হক ইমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০২",
+      "prefix": "সল",
+      "serial": "০০৫০২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278623,
+      "name": "মাঃ মঈল হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৩",
+      "prefix": "সল",
+      "serial": "০০৫০৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278625,
+      "name": "মাঃ মাশফারিক হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৪",
+      "prefix": "সল",
+      "serial": "০০৫০৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278627,
+      "name": "মাঃ মহেদী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৫",
+      "prefix": "সল",
+      "serial": "০০৫০৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278629,
+      "name": "মাঃ াধনী বাবু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৬",
+      "prefix": "সল",
+      "serial": "০০৫০৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278689,
+      "name": "মাঃ আবলু কাশেম নাফি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৭",
+      "prefix": "সল",
+      "serial": "০০৫০৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278691,
+      "name": "মাঃআলু মামিন জিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৮",
+      "prefix": "সল",
+      "serial": "০০৫০৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278693,
+      "name": "মাহাদ সিফাত ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫০৯",
+      "prefix": "সল",
+      "serial": "০০৫০৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278695,
+      "name": "রাকিবলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১০",
+      "prefix": "সল",
+      "serial": "০০৫১০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278723,
+      "name": "রাফসান রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১১",
+      "prefix": "সল",
+      "serial": "০০৫১১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278725,
+      "name": "রাফি আহদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১২",
+      "prefix": "সল",
+      "serial": "০০৫১২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278727,
+      "name": "রাশিদ আবিদ ব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৩",
+      "prefix": "সল",
+      "serial": "০০৫১৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278729,
+      "name": "শখ তাইফরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৪",
+      "prefix": "সল",
+      "serial": "০০৫১৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278757,
+      "name": "সাইফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৬",
+      "prefix": "সল",
+      "serial": "০০৫১৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278759,
+      "name": "সাইফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৫",
+      "prefix": "সল",
+      "serial": "০০৫১৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278761,
+      "name": "সাজিদ মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৭",
+      "prefix": "সল",
+      "serial": "০০৫১৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278763,
+      "name": "সানি সিকদার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৮",
+      "prefix": "সল",
+      "serial": "০০৫১৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278791,
+      "name": "সাহাদাত কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫১৯",
+      "prefix": "সল",
+      "serial": "০০৫১৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278793,
+      "name": "সলিম রজা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২০",
+      "prefix": "সল",
+      "serial": "০০৫২০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278795,
+      "name": "সাহেল মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২১",
+      "prefix": "সল",
+      "serial": "০০৫২১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278797,
+      "name": "আশরাফলু আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২২",
+      "prefix": "সল",
+      "serial": "০০৫২২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278825,
+      "name": "মাহফজু মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৩",
+      "prefix": "সল",
+      "serial": "০০৫২৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278827,
+      "name": "মাঃ নয়ামত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৪",
+      "prefix": "সল",
+      "serial": "০০৫২৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278829,
+      "name": "মাঃ সাহেল রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৫",
+      "prefix": "সল",
+      "serial": "০০৫২৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278831,
+      "name": "আলু জামিল তামিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৬",
+      "prefix": "সল",
+      "serial": "০০৫২৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278859,
+      "name": "জিয়াউল মাফা সিফাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৭",
+      "prefix": "সল",
+      "serial": "০০৫২৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278861,
+      "name": "তানজিম ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৮",
+      "prefix": "সল",
+      "serial": "০০৫২৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278863,
+      "name": "ফারদিন ফারহান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫২৯",
+      "prefix": "সল",
+      "serial": "০০৫২৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278865,
+      "name": "মা. ফুয়াদ হাসান রিয়াদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩০",
+      "prefix": "সল",
+      "serial": "০০৫৩০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278893,
+      "name": "মা: এলেমুামান ওহী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩১",
+      "prefix": "সল",
+      "serial": "০০৫৩১",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278895,
+      "name": "মা: মায়াজ-আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩২",
+      "prefix": "সল",
+      "serial": "০০৫৩২",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278897,
+      "name": "মাঃ তাহসিন রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৩",
+      "prefix": "সল",
+      "serial": "০০৫৩৩",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278899,
+      "name": "মাঃ নাঈম আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৪",
+      "prefix": "সল",
+      "serial": "০০৫৩৪",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278927,
+      "name": "মাাের হাসান গনি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৫",
+      "prefix": "সল",
+      "serial": "০০৫৩৫",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278929,
+      "name": "মাহাদ আহাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৬",
+      "prefix": "সল",
+      "serial": "০০৫৩৬",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278931,
+      "name": "মাহাদ সামিন উাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৭",
+      "prefix": "সল",
+      "serial": "০০৫৩৭",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278933,
+      "name": "রাহাত আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৮",
+      "prefix": "সল",
+      "serial": "০০৫৩৮",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278993,
+      "name": "সািক মুাফা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৩৯",
+      "prefix": "সল",
+      "serial": "০০৫৩৯",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278995,
+      "name": "সয়দ আরমান আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪০",
+      "prefix": "সল",
+      "serial": "০০৫৪০",
+      "department": "মাকেটিং বিভাগ",
+      "lineNumber": 278997,
+      "name": "কৗশিক আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪১",
+      "prefix": "সল",
+      "serial": "০০৫৪১",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279051,
+      "name": "নাঈমলু গনি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪২",
+      "prefix": "সল",
+      "serial": "০০৫৪২",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279053,
+      "name": "নাওফেল কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৩",
+      "prefix": "সল",
+      "serial": "০০৫৪৩",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279055,
+      "name": "ফাহিম মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৪",
+      "prefix": "সল",
+      "serial": "০০৫৪৪",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279057,
+      "name": "মাঃ জিয়াল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৫",
+      "prefix": "সল",
+      "serial": "০০৫৪৫",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279093,
+      "name": "মাঃ রাসেল হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৬",
+      "prefix": "সল",
+      "serial": "০০৫৪৬",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279095,
+      "name": "সাকিব হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৭",
+      "prefix": "সল",
+      "serial": "০০৫৪৭",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279097,
+      "name": "মমুিতলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৮",
+      "prefix": "সল",
+      "serial": "০০৫৪৮",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279099,
+      "name": "মাঃ মাফ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৪৯",
+      "prefix": "সল",
+      "serial": "০০৫৪৯",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279135,
+      "name": "মাঃ রনি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫০",
+      "prefix": "সল",
+      "serial": "০০৫৫০",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279137,
+      "name": "আরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫১",
+      "prefix": "সল",
+      "serial": "০০৫৫১",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279139,
+      "name": "নাহিল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫২",
+      "prefix": "সল",
+      "serial": "০০৫৫২",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279141,
+      "name": "মহুতাসিম মনুাওয়ার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৩",
+      "prefix": "সল",
+      "serial": "০০৫৫৩",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279177,
+      "name": "মাঃ তাহমিদ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৪",
+      "prefix": "সল",
+      "serial": "০০৫৫৪",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279179,
+      "name": "মাঃ সাজেল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৫",
+      "prefix": "সল",
+      "serial": "০০৫৫৫",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279181,
+      "name": "শাহরিয়ার আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৬",
+      "prefix": "সল",
+      "serial": "০০৫৫৬",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279183,
+      "name": "সাজিদ বিন ইমরান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৭",
+      "prefix": "সল",
+      "serial": "০০৫৫৭",
+      "department": "মানেজমেট ইনফরমেশন সিেমস",
+      "lineNumber": 279219,
+      "name": "আুাহ আল নামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৮",
+      "prefix": "সল",
+      "serial": "০০৫৫৮",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279265,
+      "name": "এনামলু হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৫৯",
+      "prefix": "সল",
+      "serial": "০০৫৫৯",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279267,
+      "name": "মাঃ ওমর ফাক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬০",
+      "prefix": "সল",
+      "serial": "০০৫৬০",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279269,
+      "name": "শাহরিয়ার রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬১",
+      "prefix": "সল",
+      "serial": "০০৫৬১",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279271,
+      "name": "মাঃ রায়হান ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬২",
+      "prefix": "সল",
+      "serial": "০০৫৬২",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279299,
+      "name": "মাঃআলামিন ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৩",
+      "prefix": "সল",
+      "serial": "০০৫৬৩",
+      "department": "যাগাযোগ বকল বিভাগ",
+      "lineNumber": 279301,
+      "name": "তৗফিক হাসেন চৗধরুী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৪",
+      "prefix": "সল",
+      "serial": "০০৫৬৪",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279351,
+      "name": "মা. মাফ হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৫",
+      "prefix": "সল",
+      "serial": "০০৫৬৫",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279353,
+      "name": "মাঃ ইমল হাসান ইমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৬",
+      "prefix": "সল",
+      "serial": "০০৫৬৬",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279355,
+      "name": "মাঃ কাজল হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৭",
+      "prefix": "সল",
+      "serial": "০০৫৬৭",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279357,
+      "name": "মাঃ নাহিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৮",
+      "prefix": "সল",
+      "serial": "০০৫৬৮",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279385,
+      "name": "মাঃ হাবিবরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৬৯",
+      "prefix": "সল",
+      "serial": "০০৫৬৯",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279387,
+      "name": "সজবী কাজী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭০",
+      "prefix": "সল",
+      "serial": "০০৫৭০",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279389,
+      "name": "সাদ আল মামনু সাকিব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭১",
+      "prefix": "সল",
+      "serial": "০০৫৭১",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279391,
+      "name": "আল-মুঈদ অভি",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭২",
+      "prefix": "সল",
+      "serial": "০০৫৭২",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279419,
+      "name": "খকার মা: আবাহ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৩",
+      "prefix": "সল",
+      "serial": "০০৫৭৩",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279421,
+      "name": "মা. বিজয় শাহরিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৪",
+      "prefix": "সল",
+      "serial": "০০৫৭৪",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279423,
+      "name": "মাঃ নাইম হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৫",
+      "prefix": "সল",
+      "serial": "০০৫৭৫",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279425,
+      "name": "মাঃ সামিন মুাসিম দপী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৬",
+      "prefix": "সল",
+      "serial": "০০৫৭৬",
+      "department": "রাবিান বিভাগ",
+      "lineNumber": 279455,
+      "name": "আতিক নামান জয়",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৭",
+      "prefix": "সল",
+      "serial": "০০৫৭৭",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279497,
+      "name": "আবল ওয়াহাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৮",
+      "prefix": "সল",
+      "serial": "০০৫৭৮",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279499,
+      "name": "আল আজমি সরওয়ার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৭৯",
+      "prefix": "সল",
+      "serial": "০০৫৭৯",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279501,
+      "name": "খকার মা: জাাতনু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮০",
+      "prefix": "সল",
+      "serial": "০০৫৮০",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279503,
+      "name": "নী ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮১",
+      "prefix": "সল",
+      "serial": "০০৫৮১",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279533,
+      "name": "নরূ উন নবী অনিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮২",
+      "prefix": "সল",
+      "serial": "০০৫৮২",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279535,
+      "name": "মাঃ আহনাফ করিম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৩",
+      "prefix": "সল",
+      "serial": "০০৫৮৩",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279537,
+      "name": "মাঃ ইখলাস ভূঁইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৪",
+      "prefix": "সল",
+      "serial": "০০৫৮৪",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279539,
+      "name": "মাঃ ফরদৌস ফাইয়াজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৫",
+      "prefix": "সল",
+      "serial": "০০৫৮৫",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279567,
+      "name": "আহমেদ হাসেন নাসিফ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৬",
+      "prefix": "সল",
+      "serial": "০০৫৮৬",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279569,
+      "name": "তাসিন মা: আয়ান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৭",
+      "prefix": "সল",
+      "serial": "০০৫৮৭",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279571,
+      "name": "মবুতাসিম ইবনে রফিক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৮",
+      "prefix": "সল",
+      "serial": "০০৫৮৮",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279573,
+      "name": "হাসাইন মাাকনী রাহাত",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৮৯",
+      "prefix": "সল",
+      "serial": "০০৫৮৯",
+      "department": "লাকশাসন বিভাগ",
+      "lineNumber": 279601,
+      "name": "মাফ আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯০",
+      "prefix": "সল",
+      "serial": "০০৫৯০",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279643,
+      "name": "মাহফজুরু রহমান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯১",
+      "prefix": "সল",
+      "serial": "০০৫৯১",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279645,
+      "name": "মা.আল আমিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯২",
+      "prefix": "সল",
+      "serial": "০০৫৯২",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279647,
+      "name": "রাকিবলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৩",
+      "prefix": "সল",
+      "serial": "০০৫৯৩",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279649,
+      "name": "নরূ মাহাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৪",
+      "prefix": "সল",
+      "serial": "০০৫৯৪",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279677,
+      "name": "এ. এম. হাসিন শাহাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৫",
+      "prefix": "সল",
+      "serial": "০০৫৯৫",
+      "department": "শাি ও সংঘষ অধয়ন বিভাগ",
+      "lineNumber": 279679,
+      "name": "তৗফিল ইসলাম ইনান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৬",
+      "prefix": "সল",
+      "serial": "০০৫৯৬",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279729,
+      "name": "আবলা আল মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৭",
+      "prefix": "সল",
+      "serial": "০০৫৯৭",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279731,
+      "name": "মাঃ জামিল রজা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৮",
+      "prefix": "সল",
+      "serial": "০০৫৯৮",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279733,
+      "name": "মাঃ নাহিামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৫৯৯",
+      "prefix": "সল",
+      "serial": "০০৫৯৯",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279735,
+      "name": "মাঃ শাহির হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০০",
+      "prefix": "সল",
+      "serial": "০০৬০০",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279763,
+      "name": "শখ সালমান কবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০১",
+      "prefix": "সল",
+      "serial": "০০৬০১",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279765,
+      "name": "সাদি ইসলাম সাগর",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০২",
+      "prefix": "সল",
+      "serial": "০০৬০২",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279767,
+      "name": "আলু মাজিদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৩",
+      "prefix": "সল",
+      "serial": "০০৬০৩",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279769,
+      "name": "আল শাহরিয়ার শিহাব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৪",
+      "prefix": "সল",
+      "serial": "০০৬০৪",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279797,
+      "name": "খাকার ওয়াকার জামান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৫",
+      "prefix": "সল",
+      "serial": "০০৬০৫",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279799,
+      "name": "মহুতাসিম নরূ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৬",
+      "prefix": "সল",
+      "serial": "০০৬০৬",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279801,
+      "name": "মাঃ মাফ হাসেন লিখন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৭",
+      "prefix": "সল",
+      "serial": "০০৬০৭",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279803,
+      "name": "মাহাদ সাজিদ ইবনে",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৮",
+      "prefix": "সল",
+      "serial": "০০৬০৮",
+      "department": "শিা ও গবেষণা ইনিটিউট",
+      "lineNumber": 279833,
+      "name": "এস.এম. সামিউল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬০৯",
+      "prefix": "সল",
+      "serial": "০০৬০৯",
+      "department": "সংগতী বিভাগ",
+      "lineNumber": 279877,
+      "name": "মা: আবু রাশেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১০",
+      "prefix": "সল",
+      "serial": "০০৬১০",
+      "department": "সংগতী বিভাগ",
+      "lineNumber": 279879,
+      "name": "নাজির হাসেন রানা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১১",
+      "prefix": "সল",
+      "serial": "০০৬১১",
+      "department": "সংতৃ বিভাগ",
+      "lineNumber": 279929,
+      "name": "মা. সায়হাম আল সিয়াম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১২",
+      "prefix": "সল",
+      "serial": "০০৬১২",
+      "department": "সংতৃ বিভাগ",
+      "lineNumber": 279931,
+      "name": "মাঃ মামনু মিয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৩",
+      "prefix": "সল",
+      "serial": "০০৬১৩",
+      "department": "সংতৃ বিভাগ",
+      "lineNumber": 279933,
+      "name": "মাঃ শরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৪",
+      "prefix": "সল",
+      "serial": "০০৬১৪",
+      "department": "সংতৃ বিভাগ",
+      "lineNumber": 279935,
+      "name": "বেল মালা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৫",
+      "prefix": "সল",
+      "serial": "০০৬১৫",
+      "department": "সংতৃ বিভাগ",
+      "lineNumber": 279963,
+      "name": "ইসলাম ভুঁইয়া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৬",
+      "prefix": "সল",
+      "serial": "০০৬১৬",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280005,
+      "name": "মা: ইাফিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৭",
+      "prefix": "সল",
+      "serial": "০০৬১৭",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280007,
+      "name": "মা: রাসেল শখ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৮",
+      "prefix": "সল",
+      "serial": "০০৬১৮",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280009,
+      "name": "মা: হামিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬১৯",
+      "prefix": "সল",
+      "serial": "০০৬১৯",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280011,
+      "name": "মাঃ মহেদী হাসান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২০",
+      "prefix": "সল",
+      "serial": "০০৬২০",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280039,
+      "name": "মাহাাদ আরিফলু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২১",
+      "prefix": "সল",
+      "serial": "০০৬২১",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280041,
+      "name": "শাহিন আলম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২২",
+      "prefix": "সল",
+      "serial": "০০৬২২",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280043,
+      "name": "ইফাদ বিন শহজাদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৩",
+      "prefix": "সল",
+      "serial": "০০৬২৩",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280045,
+      "name": "জাকির হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৪",
+      "prefix": "সল",
+      "serial": "০০৬২৪",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280075,
+      "name": "মা : ইসী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৫",
+      "prefix": "সল",
+      "serial": "০০৬২৫",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280077,
+      "name": "মা: রিসাদ সরকার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৬",
+      "prefix": "সল",
+      "serial": "০০৬২৬",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280079,
+      "name": "মাঃ আুাহ আল মামনু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৭",
+      "prefix": "সল",
+      "serial": "০০৬২৭",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280081,
+      "name": "মাঃ তারেক হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৮",
+      "prefix": "সল",
+      "serial": "০০৬২৮",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280109,
+      "name": "মা: সাাদ হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬২৯",
+      "prefix": "সল",
+      "serial": "০০৬২৯",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280111,
+      "name": "মাঃ মাজহাল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩০",
+      "prefix": "সল",
+      "serial": "০০৬৩০",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280113,
+      "name": "জি. এম. আইমান আবির",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩১",
+      "prefix": "সল",
+      "serial": "০০৬৩১",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280115,
+      "name": "মাঃ রহমত আলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩২",
+      "prefix": "সল",
+      "serial": "০০৬৩২",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280149,
+      "name": "রাল রাইন অণব",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৩",
+      "prefix": "সল",
+      "serial": "০০৬৩৩",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280151,
+      "name": "শখ আজমাঈন আয়াজ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৪",
+      "prefix": "সল",
+      "serial": "০০৬৩৪",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280153,
+      "name": "সাইফলু ইসলাম শিমলু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৫",
+      "prefix": "সল",
+      "serial": "০০৬৩৫",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280155,
+      "name": "হাসাইন মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৬",
+      "prefix": "সল",
+      "serial": "০০৬৩৬",
+      "department": "সমাজকলাণ ও গবেষণা ইনিটিউট",
+      "lineNumber": 280183,
+      "name": "আলু জলিল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৭",
+      "prefix": "সল",
+      "serial": "০০৬৩৭",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280225,
+      "name": "ইসতিয়াক আহদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৮",
+      "prefix": "সল",
+      "serial": "০০৬৩৮",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280227,
+      "name": "খালিদ মাহমদু",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৩৯",
+      "prefix": "সল",
+      "serial": "০০৬৩৯",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280229,
+      "name": "মা: ইমান উিন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪০",
+      "prefix": "সল",
+      "serial": "০০৬৪০",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280231,
+      "name": "মাঃ আতিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪১",
+      "prefix": "সল",
+      "serial": "০০৬৪১",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280259,
+      "name": "মাঃ জােয়ল হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪২",
+      "prefix": "সল",
+      "serial": "০০৬৪২",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280261,
+      "name": "মাঃ বিব হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৩",
+      "prefix": "সল",
+      "serial": "০০৬৪৩",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280263,
+      "name": "মাঃ সাকিব হাওলাদার",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৪",
+      "prefix": "সল",
+      "serial": "০০৬৪৪",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280265,
+      "name": "মাহাদ আল- ইমরান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৫",
+      "prefix": "সল",
+      "serial": "০০৬৪৫",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280295,
+      "name": "সাহারিয়া ইমন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৬",
+      "prefix": "সল",
+      "serial": "০০৬৪৬",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280297,
+      "name": "হাছিবরু রহমান মমী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৭",
+      "prefix": "সল",
+      "serial": "০০৬৪৭",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280299,
+      "name": "মা. আমিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৮",
+      "prefix": "সল",
+      "serial": "০০৬৪৮",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280301,
+      "name": "মা: জাকির হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৪৯",
+      "prefix": "সল",
+      "serial": "০০৬৪৯",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280329,
+      "name": "মা: মামুর রশদী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫০",
+      "prefix": "সল",
+      "serial": "০০৬৫০",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280331,
+      "name": "মাঃ আরিফলু ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫১",
+      "prefix": "সল",
+      "serial": "০০৬৫১",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280333,
+      "name": "মাঃ বিব মডল",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫২",
+      "prefix": "সল",
+      "serial": "০০৬৫২",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280335,
+      "name": "মাঃ রিয়াজ উনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৩",
+      "prefix": "সল",
+      "serial": "০০৬৫৩",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280363,
+      "name": "মাঃ শিমলু হাসেন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৪",
+      "prefix": "সল",
+      "serial": "০০৬৫৪",
+      "department": "সমাজবিান বিভাগ",
+      "lineNumber": 280365,
+      "name": "মাঃ আতিল ইসলাম",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৫",
+      "prefix": "সল",
+      "serial": "০০৬৫৫",
+      "department": "সমু বিান বিভাগ",
+      "lineNumber": 280413,
+      "name": "ক.এম নাঈম ফারহান",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৬",
+      "prefix": "সল",
+      "serial": "০০৬৫৬",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280457,
+      "name": "মা:ইমন হাসেন শা",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৭",
+      "prefix": "সল",
+      "serial": "০০৬৫৭",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280459,
+      "name": "মাঃ ইনজামলু হক",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৮",
+      "prefix": "সল",
+      "serial": "০০৬৫৮",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280461,
+      "name": "শাকিল আহমেদ",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৫৯",
+      "prefix": "সল",
+      "serial": "০০৬৫৯",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280463,
+      "name": "মাঃ মাবাির আল মাহী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬০",
+      "prefix": "সল",
+      "serial": "০০৬৬০",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280491,
+      "name": "মা.নাজমসু সালেহনী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬১",
+      "prefix": "সল",
+      "serial": "০০৬৬১",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280493,
+      "name": "জাওয়াদ সামস",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬২",
+      "prefix": "সল",
+      "serial": "০০৬৬২",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280495,
+      "name": "আরু রহমান া",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৩",
+      "prefix": "সল",
+      "serial": "০০৬৬৩",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280497,
+      "name": "শাবাব হাসিন নলী",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    },
+    {
+      "id": "সল-০০৬৬৪",
+      "prefix": "সল",
+      "serial": "০০৬৬৪",
+      "department": "া অথনতীি ইনিটিউট",
+      "lineNumber": 280525,
+      "name": "ইাহিম হাসাইন",
+      "hall": "সলিমুল্লাহ মুসলিম হল",
+      "registrationSession": ""
+    }
+  ],
+  "totalVoters": 665,
+  "departments": {
+    "অপরাধ বিান বিভাগ": 10,
+    "অগানাইজেশন াটেজি এড": 10,
+    "অথনতীি বিভাগ": 25,
+    "আইন বিভাগ": 18,
+    "আধনুিক ভাষা ইনিটিউট": 18,
+    "আজাতিক সক বিভাগ": 14,
+    "আরবি বিভাগ": 15,
+    "ইংরেজী বিভাগ": 16,
+    "ইতিহাস বিভাগ": 11,
+    "ইটারাশনাল বিজনেস বিভাগ": 33,
+    "ইসলামিক াডিজ বিভাগ": 19,
+    "ইসলামের ইতিহাস ও সংতৃি বিভাগ": 18,
+    "উইমেন এড জডার াডিজ বিভাগ": 3,
+    "উয়ন অধয়ন বিভাগ": 5,
+    "উ বিভাগ": 11,
+    "একাউিটং এড ইনফরমেশন": 13,
+    "এডুকেশনাল এড কাউিলিং": 1,
+    "গণযোগাযোগ ও সাংবাদিকতা বিভাগ": 14,
+    "গণিত বিভাগ": 1,
+    "জাপানিজ াডিজ বিভাগ": 9,
+    "টিভি ও চলি অধয়ন বিভাগ": 4,
+    "টরুিজম এড হসপিটালিটি মানেজমেট": 28,
+    "ডিজাার মানেজমেট এড": 6,
+    "তথবিান ও থাগার ববাপনা": 9,
+    "দশন বিভাগ": 15,
+    "নাট ও দশন কলা অধয়ন বিভাগ": 2,
+    "ন তৃকলা বিভাগ": 2,
+    "ন বৃিান বিভাগ": 7,
+    "পপুলেশন সােয়েস বিভাগ": 7,
+    "পরিসংখান গবেষণা ও শিণ": 1,
+    "পালি এড বুি াডিজ বিভাগ": 4,
+    "িট মকিং বিভাগ": 1,
+    "িিটং এড পাবলিকেশন াডিজ": 1,
+    "ফারসি ভাষা ও সাহিত বিভাগ": 11,
+    "ফিা বিভাগ": 29,
+    "বাংলা বিভাগ": 10,
+    "বি ধম ও সংতৃি বিভাগ": 13,
+    "ববাপনা বিভাগ": 19,
+    "বাংকিং ও ইুরে বিভাগ": 26,
+    "ভাষাবিান বিভাগ": 4,
+    "ভূগোল ও পরিবেশ বিভাগ": 7,
+    "মনোবিান বিভাগ": 4,
+    "মাকেটিং বিভাগ": 67,
+    "মানেজমেট ইনফরমেশন সিেমস": 17,
+    "যাগাযোগ বকল বিভাগ": 6,
+    "রাবিান বিভাগ": 13,
+    "লাকশাসন বিভাগ": 13,
+    "শাি ও সংঘষ অধয়ন বিভাগ": 6,
+    "শিা ও গবেষণা ইনিটিউট": 13,
+    "সংগতী বিভাগ": 2,
+    "সংতৃ বিভাগ": 5,
+    "সমাজকলাণ ও গবেষণা ইনিটিউট": 21,
+    "সমাজবিান বিভাগ": 18,
+    "সমু বিান বিভাগ": 1,
+    "া অথনতীি ইনিটিউট": 9
+  },
+  "createdAt": "2025-08-19T04:41:49.665Z",
+  "sourceDatabase": "voter_database_muhsin_fixed.json",
+  "topDepartments": [
+    {
+      "department": "মাকেটিং বিভাগ",
+      "count": 67
+    },
+    {
+      "department": "ইটারাশনাল বিজনেস বিভাগ",
+      "count": 33
+    },
+    {
+      "department": "ফিা বিভাগ",
+      "count": 29
+    },
+    {
+      "department": "টরুিজম এড হসপিটালিটি মানেজমেট",
+      "count": 28
+    },
+    {
+      "department": "বাংকিং ও ইুরে বিভাগ",
+      "count": 26
+    }
+  ],
+  "totalDepartments": 55
+}
