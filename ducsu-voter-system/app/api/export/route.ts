@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 import { getServerSession } from 'next-auth'
-import { authOptions } from '@/app/api/auth/[...nextauth]/route'
+import { authOptions } from '@/lib/auth'
 import ExcelJS from 'exceljs'
 
 export async function POST(request: NextRequest) {
@@ -31,18 +31,20 @@ export async function POST(request: NextRequest) {
     })
     
     // Log the export action
-    await prisma.auditLog.create({
-      data: {
-        userId: session.user.id,
-        action: 'EXPORT_DATA',
-        details: {
-          format,
-          count: voters.length,
-          hallIds,
-          voterIds
+    if (session.user?.id) {
+      await prisma.auditLog.create({
+        data: {
+          userId: session.user.id,
+          action: 'EXPORT_DATA',
+          details: {
+            format,
+            count: voters.length,
+            hallIds,
+            voterIds
+          }
         }
-      }
-    })
+      })
+    }
     
     if (format === 'xlsx') {
       const workbook = new ExcelJS.Workbook()

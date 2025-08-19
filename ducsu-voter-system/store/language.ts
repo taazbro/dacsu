@@ -155,7 +155,7 @@ export const useLanguageStore = create<LanguageState>()(
       setLanguage: (lang) => set({ language: lang }),
       t: (key) => {
         const { language } = get()
-        return translations[language][key] || key
+        return (translations[language] as any)[key] || key
       }
     }),
     {
