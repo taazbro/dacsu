@@ -32,7 +32,10 @@
       "Bash(chmod:*)",
       "Bash(./setup_nextjs_project.sh)",
       "Bash(npm run dev:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(npx vercel:*)",
+      "Bash(vercel:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": [],
