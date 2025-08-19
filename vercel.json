@@ -1,4 +1,6 @@
 {
-  "rootDirectory": "ducsu-voter-system",
+  "buildCommand": "cd ducsu-voter-system && npm install && npm run build",
+  "outputDirectory": "ducsu-voter-system/.next",
+  "installCommand": "cd ducsu-voter-system && npm install",
   "framework": "nextjs"
 }
