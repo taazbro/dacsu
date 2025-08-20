@@ -39,7 +39,10 @@
       "Bash(wc:*)",
       "Bash(npm run build:*)",
       "Bash(npm update)",
-      "Bash(npm audit:*)"
+      "Bash(npm audit:*)",
+      "Bash(pnpm import:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm view:*)"
     ],
     "deny": [],
     "ask": [],
